@@ -7,7 +7,26 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "lucide-download",
+      "name": "Git: Pull",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "lucide-upload",
+      "name": "Git: Push",
+      "mode": "738431b0f6d998cc"
+    },
+    {
+      "id": "obsidian-git:commit-smart",
+      "icon": "lucide-git-commit",
+      "name": "Git: Commit",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
