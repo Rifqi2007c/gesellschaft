@@ -5,6 +5,7 @@
 		- choose token classic
 		- switch to no experation date
 		- in select scope: tick **repo**
+> after generating token **safe it somewhere, github only show it once**
 - make new directory for your vault
 - make new github repo
 - follow intstruction in github repo that it give after creating a new repo
@@ -20,3 +21,9 @@
 
 ### obsidian
 - download git extention
+
+video guide:
+https://www.youtube.com/watch?v=PScdHzUiBLA&t=728s
+
+---
+#obsidian 
