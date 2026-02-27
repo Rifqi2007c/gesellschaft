@@ -16,3 +16,7 @@
 - look at the generated key: `cat ~/.ssh/id_ed25519.pub`
 - copy the key and paste it in github ssh key
 	- settings(profile) > SSH and GPG keys
+
+
+### obsidian
+- download git extention
