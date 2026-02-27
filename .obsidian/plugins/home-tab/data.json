@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 25,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "!non-group/webrings.md",
+      "timestamp": 1772212906759
+    },
+    {
+      "filepath": "gesellschaft/@ gesellschaft.md",
+      "timestamp": 1772212898369
+    },
+    {
+      "filepath": "toys/terminal toys/imagemagick.md",
+      "timestamp": 1772212896231
+    },
+    {
+      "filepath": "linux/archlinux/gaming guide (archlinux).md",
+      "timestamp": 1772212888478
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "gesellschaft/@ gesellschaft.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": false,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

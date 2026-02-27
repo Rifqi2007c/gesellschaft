@@ -1,0 +1,40 @@
+- [firefox](https://www.firefox.com/en-US/?utm_campaign=SET_DEFAULT_BROWSER)
+	- highly customiseable browser with feature
+- [flow-launcher](https://www.flowlauncher.com/)
+	  - launch app quickly by typing and using hotkey
+	  - available in: 
+	    - scoop `scoop install Flow-Launcher`
+	    - winget `winget install Flow-Launcher.Flow-Launcher --source winget`
+- [vscode](https://code.visualstudio.com/Download#)
+	  - IDE
+- [krita](https://krita.org/en/)
+	- digital drawing / desingning
+	- available in:
+		- scoop (extras) `scoop install krita`
+- [blender](https://www.blender.org/download/)
+	- 3D modeling
+- [obsidian](https://www.blender.org/download/)
+	- note taking with markdown editor using .md format
+- [prism-launcher](https://prismlauncher.org/download/windows/)
+	- minecraft launcher and mod manager with profiling
+	- available in:
+		- scoop `scoop bucket add games`, `scoop install prismlauncher`
+		- winget `winget install PrismLauncher.PrismLauncher --source winget`
+- [foobar2000](https://www.foobar2000.org/)
+	- highly customiseable media playing for music
+- [spotify](https://open.spotify.com/download)
+	- music streaming services
+- [soulseekQT](https://www.slsknet.org/news/node/1)
+	- high quality (LDAC) music download / upload client
+- [protonvpn](https://protonvpn.com/download?srsltid=AfmBOooVs_NV3zXK-py4SA66SVsPZRpT4RpRxjtvIVxW-RVRmpnl0BMf)
+	- free vpn
+- [equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+	- advance windows eq
+		- [peace equalizer, interface equalizer APO]
+			- EQ APO interface (plugin)
+- [kde connect](https://kdeconnect.kde.org/download.html)
+	- device connect for file transfer, etc
+- [7zip](https://www.7-zip.org/download.html)
+	- feature rich zip app with special 7z format
+----
+#windows 

@@ -1,0 +1,24 @@
+- knight armor
+- 3d lain plush - by me!
+- a new perception
+- alittle axolotl with friends
+- blockier goat horn
+- catppuccin macchiato blue
+- circle crosshair
+- crops 3d
+- DetailsAnimationReworked
+- fresh animation
+   - FA+Creeper
+   - FA+Details
+   - FA+Object
+   - FA+Emissive
+- guiretexture
+- GUIrevesion
+- Luminous
+- macebut3d
+- nautilus3D
+- vanillaTweak
+- water+improve
+
+----
+#minecraft 

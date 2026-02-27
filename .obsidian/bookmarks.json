@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1768324814429,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "!asset"
+        },
+        {
+          "type": "folder",
+          "ctime": 1770807693841,
+          "path": "gesellschaft"
+        },
+        {
+          "type": "file",
+          "ctime": 1768324921392,
+          "path": "gesellschaft/@ gesellschaft.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "!asset"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "@ note that may be usefull"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "@ temporary note"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "android"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "coding"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "eq apo n peace interface"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "games"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "linux"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "obsidian"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "UNIMEL"
+        },
+        {
+          "type": "group",
+          "ctime": 1768324946990,
+          "items": [],
+          "title": "windows"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#gesellschaft  ",
+      "color": {
+        "a": 1,
+        "rgb": 4435274
+      }
+    },
+    {
+      "query": "tag:#windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 4433893
+      }
+    },
+    {
+      "query": "tag:#android",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#minecraft  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#archlinux  ",
+      "color": {
+        "a": 1,
+        "rgb": 427718
+      }
+    },
+    {
+      "query": "tag:#obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
+    },
+    {
+      "query": "tag:#UNIMEL  ",
+      "color": {
+        "a": 1,
+        "rgb": 14352384
+      }
+    },
+    {
+      "query": "tag:#coding  ",
+      "color": {
+        "a": 1,
+        "rgb": 165120
+      }
+    },
+    {
+      "query": "tag:#cpp  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "tag:#eq-apo  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#terraria  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#osu  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701249
+      }
+    },
+    {
+      "query": "tag:#VOTV  ",
+      "color": {
+        "a": 1,
+        "rgb": 5197647
+      }
+    },
+    {
+      "query": "tag:#BIOS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#psxlain  ",
+      "color": {
+        "a": 1,
+        "rgb": 12213317
+      }
+    },
+    {
+      "query": "tag:toys",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "tag:#reminder  ",
+      "color": {
+        "a": 1,
+        "rgb": 5096447
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.10618181818182,
+  "collapse-forces": true,
+  "centerStrength": 0.709313543599258,
+  "repelStrength": 12.1632653061224,
+  "linkStrength": 0.734842300556586,
+  "linkDistance": 102,
+  "scale": 0.22785311491107574,
+  "close": true
+}

@@ -1,0 +1,5 @@
+/* Center tables on the page */
+.markdown-center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

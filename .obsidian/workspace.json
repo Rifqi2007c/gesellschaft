@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "22eaff1e7f4c40ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "446465ffb2c6f6e1",
+        "type": "tabs",
+        "dimension": 76.42163661581137,
+        "children": [
+          {
+            "id": "99c724a96c2cda33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toys/terminal toys/imagemagick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "imagemagick"
+            }
+          },
+          {
+            "id": "ec4e98dc2d4f5b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!non-group/webrings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "webrings"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0ed59551acd0f1bf",
+        "type": "split",
+        "dimension": 23.578363384188627,
+        "children": [
+          {
+            "id": "6489f6a7ee3e084a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "021bd34ee64c3200",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "!non-group/@ reminder.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "@ reminder"
+                }
+              }
+            ]
+          },
+          {
+            "id": "52970ce67c9bb32a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d812d858f2a161d2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95769d025110b937",
+    "type": "split",
+    "children": [
+      {
+        "id": "2088f22126fad4ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8641a90b8bbbc8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "169042c1c4cbc7eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#archlinux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3c8f9b967659870",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "911d59605c0569ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "401306acf211aa54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbeb39ae966fcf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@ gesellschaft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for @ gesellschaft"
+            }
+          },
+          {
+            "id": "c00e3acafc1d7b87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!asset/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "ca445fcd59c62d50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a9327a1c711b843",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "coding/c++.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of c++"
+            }
+          },
+          {
+            "id": "2eb42776c7007cf4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "16e17c229e4530c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "linux/terminal toys.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for terminal toys"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 476.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "ec4e98dc2d4f5b90",
+  "lastOpenFiles": [
+    "gesellschaft/@ gesellschaft.md",
+    "toys/terminal toys/imagemagick.md",
+    "linux/archlinux/gaming guide (archlinux).md",
+    "toys/application toys.md",
+    "toys/terminal toys/ffmpeg.md",
+    "toys/website link toys.md",
+    "linux/archlinux/certain game that have its file on another location (archlinux).md",
+    "linux/archlinux/play steam games from windows drive (archlinux).md",
+    "!non-group/@ reminder.md",
+    "!non-group/webrings.md",
+    "linux/archlinux/audio backend (arch).md",
+    "linux/archlinux/pywal (archlinux).md",
+    "linux/archlinux.md",
+    "linux/archlinux/convert file (archlinux).md",
+    "sfml.md",
+    "toys/tools and toys.md",
+    "linux/archlinux/nvidia (archlinux).md",
+    "gesellschaft/gesellschaft (dataview).md",
+    "obsidian/obsidian markdown and syntax.md",
+    "!non-group/todoist.md",
+    "@ temporary note/@ temporary note.md",
+    "@ temporary note/bspwm.md",
+    "@ temporary note/ricing windows like its linux tutorial step.md",
+    "!non-group/neovim keybind.md",
+    "toys/terminal toys/terminal toys.md",
+    "toys/terminal toys/archive file.md",
+    "toys/terminal toys",
+    "psx lain/psx lain.canvas",
+    "!outsider-note",
+    "gesellschaft",
+    "!non-group",
+    "toys",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "psx lain",
+    "UNIMEL/exam/dis",
+    "UNIMEL/exam/dcs",
+    "UNIMEL/exam",
+    "!outsider-note/Airell Study",
+    "!asset/gesellschaft.png",
+    "!asset/header.jpg",
+    "!asset/call-it-a-day.jpg",
+    "!asset/Green noir.jpg",
+    "coding/c++/c++ flowchart/asset flowchart/terminal.png",
+    "coding/c++/c++ flowchart/asset flowchart/example repetition control structure.png",
+    "coding/c++/c++ flowchart/asset flowchart/termianl2.png",
+    "coding/c++/c++ flowchart/asset flowchart/processing.png",
+    "coding/c++/c++ flowchart/asset flowchart/off-page connector.png",
+    "coding/c++/c++ flowchart/asset flowchart/inpur or output.png",
+    "UNIMEL/DCS/example selection control structure.canvas",
+    "UNIMEL/DCS/test.canvas"
+  ]
+}

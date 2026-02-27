@@ -1,0 +1,7 @@
+/* Change cursor to block in Live Preview and Source Mode */
+
+.cm-cursor {
+    border-left-width: 0.5em !important; /* Adjust width as needed */
+    height: 1.2em; /* Adjust height for alignment */
+    opacity: 0.6; /* Optional: Makes it less intrusive */
+}

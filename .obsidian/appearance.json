@@ -1,0 +1,21 @@
+{
+  "cssTheme": "pywal-obsidianmd",
+  "theme": "obsidian",
+  "textFontFamily": "0xProto Nerd Font",
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "interfaceFontFamily": "0xProto Nerd Font",
+  "enabledCssSnippets": [
+    "default-zoom",
+    "color",
+    "cursor-block",
+    "custom-readable-length",
+    "notitle-embbeded",
+    "Table-centre"
+  ],
+  "accentColor": "",
+  "showRibbon": false,
+  "showViewHeader": true,
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

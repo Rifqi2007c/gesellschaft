@@ -1,0 +1,208 @@
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+  padding: unset;
+}
+
+.is-hidden-frameless:not(.is-fullscreen).is-focused .titlebar-button-container.mod-right {
+    background-color: #102c19;
+}
+
+.workspace-tab-header-container {
+    background-color: #102c19;
+    border-bottom: var(--tab-outline-width) solid rgb(5, 54, 19);
+}
+
+.workspace-tab-header.is-active {
+    box-shadow: 0 0 0 var(--tab-outline-width) #053613;
+}
+
+.workspace-split.mod-root .workspace-tab-header.is-active::before, .workspace-split.mod-root .workspace-tab-header.is-active::after {
+    box-shadow: 0 0 0 var(--tab-outline-width) #053613;
+}
+
+.workspace-split.mod-root .view-content {
+    background-color: #00180c;
+}
+
+.workspace-tabs .workspace-leaf {
+    background-color: #062106;
+}
+
+.workspace-leaf-resize-handle {
+    border-color: #053613;
+}
+
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-profile {
+    background-color: #102c19;
+    border-top: var(--tab-outline-width) solid #053613
+}
+
+.status-bar {
+    background-color: #102c19;
+    border-color: #053613
+}
+
+.view-header {
+    background-color: #05210c;
+}
+
+.is-focused .workspace-leaf.mod-active .view-header {
+    background-color: #05210c;
+}
+
+.workspace .mod-root .workspace-tab-header  {
+  --tab-background-active: #05210c; /* background color of the active tab */
+  --tab-text-color: #05120e; /* text color of inactive tabs */
+  --tab-text-color-active: #05120e; /* text color of the active tab */
+}
+
+/* graph control */
+.workspace-split:not(.mod-root) .graph-controls.is-close {
+    background-color: #062106;
+}
+
+.graph-controls {
+    background-color: #062106;
+}
+
+.graph-controls:not(.is-close) {
+    border: var(--menu-border-width) solid #053613;
+}
+
+textarea, .multi-select-container, input.metadata-input-text, input[type='date'], input[type='datetime-local'], input[type='text'], input[type='search'], input[type='email'], input[type='password'], input[type='number'] {
+    background-color: #062106;
+    border: var(--input-border-width) solid #053613;
+}
+
+/* canvas */
+.canvas-wrapper {
+    background-color: #00180c;
+}
+
+.canvas-control-group {
+    border: 1px solid #053613;
+}
+
+.canvas-control-item {
+    background-color: #062106;
+    border-bottom: 1px solid #053613
+}
+
+.theme-dark .canvas-card-menu {
+    background-color: #062106;
+}
+
+.canvas-card-menu .canvas-card-menu-button {
+    color: #457d55;
+}
+
+.canvas-card-menu-button svg * {
+fill: #05210c;
+}
+
+/* context menu */
+.menu {
+    background-color: #062106;
+    border: var(--menu-border-width) solid #053613;
+}
+
+/* command promt */
+.prompt {
+    background-color: #102c19;
+    border: var(--prompt-border-width) solid #053613;
+}
+
+/* ribbon */
+.workspace-ribbon.mod-left:before {
+    background-color: #102c19;
+    border-bottom: var(--tab-outline-width) solid #053613;
+    border-right: var(--tab-outline-width) solid #053613;
+}
+
+.workspace-ribbon {
+    background-color: #102c19;
+    border-right: var(--divider-width) solid #053613;
+}
+
+/* settings */
+.horizontal-tab-content, .vertical-tab-content {
+    background-color: #062106;
+}
+
+.vertical-tab-header {
+    background-color: #102c19;
+}
+
+.modal.mod-settings .vertical-tab-header {
+        border-inline-end: 1px solid #053613;
+}
+
+button:not(.clickable-icon) {
+    background-color: #2e7d47;
+}
+
+button.mod-cta {
+        --text-color: #dadada;
+}
+
+select, .combobox-button, .dropdown {
+    background-color: #52753a;
+}
+
+/* plugin store */
+.modal-sidebar {
+    background-color: #062106;
+}
+
+.community-item {
+    background-color: #102c19;
+}
+
+.community-modal-info {
+    background-color: #062106;
+}
+
+.modal-setting-nav-bar {
+    background-color: #102c19;
+}
+
+/* ### text style ### */
+.external-link {
+    color: #00a5e8;
+    font-weight: bold;
+}
+
+.markdown-source-view.mod-cm6 .cm-link .cm-underline, .markdown-source-view.mod-cm6 .cm-url .cm-underline {
+    color: #00a5e8;
+}
+
+.cm-s-obsidian span.cm-formatting-link.cm-url, .cm-s-obsidian span.cm-url {
+    color: #00a5e8;
+}
+
+/* heading */
+.cm-header-3 {
+    color: #d49c3b !important;
+}
+
+/* ### markdown rendered */
+.markdown-rendered :is(p,pre,table,ul,ol) + :is(h1,h2,h3,h4,h5,h6), .markdown-rendered div:is(.el-p,.el-pre,.el-table,.el-ul,.el-ol) + div > :is(h1,h2,h3,h4,h5,h6) {
+    color: #d49c3b;
+}
+
+h1, h2, h3, h4, h5, h6 .markdown-rendered {
+    color: #d49c3b !important;
+}
+
+.markdown-rendered hr {
+    border-color: #64995a;
+}
+
+body {
+    --link-decoration: none;
+    --list-marker-color: #d49c3b;
+    --code-background: #062325;
+}
+
+.gesellschaft {
+    text-align: center;
+}
