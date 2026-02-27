@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "obsidian/Untitled.md",
+      "timestamp": 1772230812472
+    },
+    {
+      "filepath": "obsidian/obsidian.md.md",
+      "timestamp": 1772230788821
+    },
+    {
+      "filepath": "gesellschaft/@ gesellschaft.md",
+      "timestamp": 1772230774577
+    },
+    {
       "filepath": "!non-group/webrings.md",
       "timestamp": 1772230709714
     },
     {
-      "filepath": "gesellschaft/@ gesellschaft.md",
-      "timestamp": 1772212898369
-    },
-    {
       "filepath": "toys/terminal toys/imagemagick.md",
       "timestamp": 1772212896231
-    },
-    {
-      "filepath": "linux/archlinux/gaming guide (archlinux).md",
-      "timestamp": 1772212888478
     }
   ],
   "bookmarkedFileStore": [
