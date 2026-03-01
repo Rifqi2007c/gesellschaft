@@ -6,43 +6,83 @@
       {
         "id": "446465ffb2c6f6e1",
         "type": "tabs",
-        "dimension": 76.42163661581137,
+        "dimension": 75.493316359007,
         "children": [
           {
-            "id": "ec4e98dc2d4f5b90",
+            "id": "7f1916c1ef8062da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gesellschaft/@ gesellschaft.md",
+                "file": "gesellschaft/gesellschaft (dataview).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ gesellschaft"
+              "title": "gesellschaft (dataview)"
             }
           },
           {
-            "id": "217d8bf26f99decf",
+            "id": "9835388bddd7d1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/git sync obsidian.md",
+                "file": "!non-group/webrings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git sync obsidian"
+              "title": "webrings"
+            }
+          },
+          {
+            "id": "f451d97d502eceac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/rifqi/gesellschaft",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/usr/bin/fish",
+                    "followTheme": true,
+                    "name": "gesellschaft console",
+                    "platforms": {
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: ~/gesellschaft"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0ed59551acd0f1bf",
         "type": "split",
-        "dimension": 23.578363384188627,
+        "dimension": 24.506683640993,
         "children": [
           {
             "id": "6489f6a7ee3e084a",
@@ -133,12 +173,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "89f0768d47d0ddfd",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 325.5
   },
   "right": {
     "id": "911d59605c0569ff",
@@ -202,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/c++.md",
+                "file": "gesellschaft/@ gesellschaft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of c++"
+              "title": "Outline of @ gesellschaft"
             }
           },
           {
@@ -231,18 +282,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "linux/terminal toys.md"
+                "file": "gesellschaft/@ gesellschaft.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for terminal toys"
+              "title": "File properties for @ gesellschaft"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -255,39 +306,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "217d8bf26f99decf",
+  "active": "f451d97d502eceac",
   "lastOpenFiles": [
-    "obsidian/obsidian.md.md",
-    "obsidian/git sync obsidian.md",
-    "obsidian/Untitled",
-    "gesellschaft/@ gesellschaft.md",
+    "gesellschaft/gesellschaft (dataview).md",
+    "!asset/proxy1.png",
+    "!asset/proxy0.png",
     "!non-group/webrings.md",
+    "!asset/proxy.png",
+    "toys/website link toys.md",
+    "toys/tools and toys.md",
+    "gesellschaft/@ gesellschaft.md",
+    "!non-group/@ reminder.md",
+    "UNIMEL/mpu/mpu.md",
+    "UNIMEL/mpu/mpu laporan.md",
+    "UNIMEL/mpu/mpu video;slide.md",
+    "UNIMEL/english/english.md",
+    "!non-group/Untitled.md",
+    "UNIMEL/DIT assigment B.md",
+    "eq apo n peace interface/asset/eq2.png",
+    "eq apo n peace interface/asset/eq2-graph.png",
+    "obsidian/git sync obsidian.md",
+    "obsidian/obsidian.md.md",
+    "obsidian/Untitled",
     "testssh.md",
     "git test.md",
     "toys/terminal toys/imagemagick.md",
     "linux/archlinux/gaming guide (archlinux).md",
     "toys/application toys.md",
     "toys/terminal toys/ffmpeg.md",
-    "toys/website link toys.md",
     "linux/archlinux/certain game that have its file on another location (archlinux).md",
     "linux/archlinux/play steam games from windows drive (archlinux).md",
-    "!non-group/@ reminder.md",
     "linux/archlinux/audio backend (arch).md",
     "linux/archlinux/pywal (archlinux).md",
     "linux/archlinux.md",
-    "linux/archlinux/convert file (archlinux).md",
-    "sfml.md",
-    "toys/tools and toys.md",
-    "linux/archlinux/nvidia (archlinux).md",
-    "gesellschaft/gesellschaft (dataview).md",
-    "obsidian/obsidian markdown and syntax.md",
-    "!non-group/todoist.md",
-    "@ temporary note/@ temporary note.md",
-    "@ temporary note/bspwm.md",
     "toys/terminal toys",
     "psx lain/psx lain.canvas",
     "!outsider-note",
@@ -305,11 +361,6 @@
     "!asset/call-it-a-day.jpg",
     "!asset/Green noir.jpg",
     "coding/c++/c++ flowchart/asset flowchart/terminal.png",
-    "coding/c++/c++ flowchart/asset flowchart/example repetition control structure.png",
-    "coding/c++/c++ flowchart/asset flowchart/termianl2.png",
-    "coding/c++/c++ flowchart/asset flowchart/processing.png",
-    "coding/c++/c++ flowchart/asset flowchart/off-page connector.png",
-    "coding/c++/c++ flowchart/asset flowchart/inpur or output.png",
     "UNIMEL/DCS/example selection control structure.canvas",
     "UNIMEL/DCS/test.canvas"
   ]

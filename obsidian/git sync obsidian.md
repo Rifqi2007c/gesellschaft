@@ -18,7 +18,6 @@
 - copy the key and paste it in github ssh key
 	- settings(profile) > SSH and GPG keys
 
-
 ### obsidian
 - download git extention
 

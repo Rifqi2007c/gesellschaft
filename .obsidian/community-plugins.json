@@ -4,9 +4,10 @@
   "file-explorer-note-count",
   "advanced-canvas",
   "obsidian-excalidraw-plugin",
-  "custom-sort",
   "home-tab",
   "dataview",
   "animated-cursor",
-  "obsidian-git"
+  "obsidian-git",
+  "terminal",
+  "notebook-navigator"
 ]
