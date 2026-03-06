@@ -132,6 +132,13 @@
         "a": 1,
         "rgb": 5395121
       }
+    },
+    {
+      "query": "tag:#linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
     }
   ],
   "collapse-display": true,
@@ -144,6 +151,6 @@
   "repelStrength": 12.1632653061224,
   "linkStrength": 0.734842300556586,
   "linkDistance": 102,
-  "scale": 0.2278531149110757,
+  "scale": 0.22785311491107563,
   "close": true
 }

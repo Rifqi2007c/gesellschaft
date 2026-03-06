@@ -103,3 +103,26 @@ blockquote {
 .workspace-fake-target-overlay:not(.is-in-sidebar) .workspace-tabs .workspace-leaf, .mod-root .workspace-tabs .workspace-leaf {
     background-color: var(--background-primary);
 }
+
+.setting-group .setting-group-search {
+  background-color: transparent !important;
+}
+
+.nn-file.nn-selected .nn-file-content::before {
+    background-color: lch(from var(--nn-selected-file-bg-color) calc(l - 15) c h);
+
+}
+
+.nn-navigation-calendar[data-highlight-today='true']
+    .nn-navigation-calendar-day.is-today:not(.has-feature-image):not(.has-feature-image-key)::before {
+    background-color: lch(from var(--nn-theme-calendar-day-today-bg) calc(l - 15) c h);
+}
+
+.setting-item {
+    background-color: lch(from var(--setting-items-background) calc(l - 20) c h);
+}
+
+.tooltip {
+  background-color: lch(from var(--background-secondary-alt) calc(l - 30) c h);
+  color: var(--text-normal) !important;
+}
