@@ -11,8 +11,8 @@
 ### blog site
 - _(mine)_ milkinsidethebag - https://milkinsidethebag.neocities.org/
 - SFTN - https://sftn.github.io/webring.html
-- nyos.dev - https://nyos.dev/sss
-- prescript - https://prescript.neocities.org/w
+- nyos.dev - https://nyos.dev/
+- prescript - https://prescript.neocities.org
 ### games
 - grow - https://www.eyezmaze.com/sp/2008/02/growNanoVol3.html
 ----

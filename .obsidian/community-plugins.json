@@ -1,7 +1,6 @@
 [
   "obsidian-style-settings",
   "cmdr",
-  "file-explorer-note-count",
   "advanced-canvas",
   "obsidian-excalidraw-plugin",
   "home-tab",
@@ -9,5 +8,6 @@
   "animated-cursor",
   "obsidian-git",
   "terminal",
-  "notebook-navigator"
+  "notebook-navigator",
+  "minimize-on-close"
 ]

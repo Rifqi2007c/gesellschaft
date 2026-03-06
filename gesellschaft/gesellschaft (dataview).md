@@ -18,6 +18,12 @@ only search bar
 
 ```dataview
 TABLE without ID
+file.link As "Latest", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS Date
+SORT file.ctime DESC
+LIMIT 10
+```
+```dataview
+TABLE without ID
 file.link As "gesellschaft", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
 FROM "gesellschaft"
 SORT file.ctime DESC
@@ -94,3 +100,6 @@ file.link AS "!outsider-note", dateformat(file.ctime, "HH:mm") AS "Time", file.c
 FROM "!outsider-note"
 SORT file.ctime DESC
 ```
+
+---
+#gesellschaft 

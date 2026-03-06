@@ -2,6 +2,7 @@
 - [[archive file]]
 	- zip - zipping file (all)
 - [[ffmpeg]] - (audio manipulation) (all)
+- [[imagemagick]] - image manipulation
 ### media player
 - [rmpc](https://rmpc.mierak.dev/) - terminal media player interface for [mpd](https://www.musicpd.org/) (linux)
 

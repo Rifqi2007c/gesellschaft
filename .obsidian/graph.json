@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 5096447
       }
+    },
+    {
+      "query": "tag:#sql  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
     }
   ],
   "collapse-display": true,
