@@ -126,3 +126,8 @@ blockquote {
   background-color: lch(from var(--background-secondary-alt) calc(l - 30) c h);
   color: var(--text-normal) !important;
 }
+
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background-color: var(--text-highlight-bg);
+    color: lch(from var(--text-normal) calc(l - 100) c h);
+}
