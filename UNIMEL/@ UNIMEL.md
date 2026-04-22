@@ -6,4 +6,8 @@
 	- [[dcs final exam]]
 - mpu
 	- [[mpu assignment]]
+- sem2 xam.midterm()
+	- 1
+	- 2
+	- 3
 #UNIMEL

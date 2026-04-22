@@ -8,12 +8,37 @@
   "hideStatusBar": "focused",
   "interceptLogging": true,
   "language": "",
+  "macOSOptionKeyPassthrough": true,
   "newInstanceBehavior": "newTab",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
+    "78731f4b-0316-4170-b9b0-fb0d14ff0dbb": {
+      "args": [],
+      "executable": "/run/current-system/sw/bin/fish",
+      "followTheme": true,
+      "name": "geselschaft-nix console",
+      "platforms": {
+        "darwin": false,
+        "linux": true,
+        "win32": false
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": false,
+      "rightClickAction": "copyPaste",
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
     "22e006a7-e298-46f0-826c-f7c812fe6030": {
       "args": [],
       "executable": "/usr/bin/fish",
@@ -31,11 +56,14 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "fontFamily": "0xProto Nerd Font",
         "documentOverride": null
       },
       "type": "integrated",
       "useWin32Conhost": true
     }
+  },
+  "defaultProfile": "78731f4b-0316-4170-b9b0-fb0d14ff0dbb",
+  "terminalOptions": {
+    "documentOverride": null
   }
 }

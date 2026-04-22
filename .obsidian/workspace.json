@@ -4,71 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "446465ffb2c6f6e1",
-        "type": "tabs",
-        "dimension": 71.41947803946532,
-        "children": [
-          {
-            "id": "4df30868b215fe6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gesellschaft/gesellschaft (dataview).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gesellschaft (dataview)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0ed59551acd0f1bf",
+        "id": "9d862427790b7694",
         "type": "split",
-        "dimension": 28.580521960534693,
         "children": [
           {
-            "id": "6489f6a7ee3e084a",
+            "id": "d87816f6d6bb7d94",
             "type": "tabs",
-            "dimension": 55.69620253164557,
+            "dimension": 70.12738853503184,
             "children": [
               {
-                "id": "021bd34ee64c3200",
+                "id": "8bd9b13266953627",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "!non-group/@ reminder.md",
-                    "mode": "source",
+                    "file": "gesellschaft/gesellschaft (dataview).md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "@ reminder"
+                  "title": "gesellschaft (dataview)"
+                }
+              },
+              {
+                "id": "441ed0ad013a4ec0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/rifqi/gesellschaft/gesellschaft",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/run/current-system/sw/bin/fish",
+                        "followTheme": true,
+                        "name": "geselschaft-nix console",
+                        "platforms": {
+                          "darwin": false,
+                          "linux": true,
+                          "win32": false
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ~/g/gesellschaft"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "52970ce67c9bb32a",
-            "type": "tabs",
-            "dimension": 44.303797468354425,
+            "id": "fddbf6899a3ab430",
+            "type": "split",
+            "dimension": 29.872611464968156,
             "children": [
               {
-                "id": "53e04557fd64e908",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
+                "id": "6489f6a7ee3e084a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "021bd34ee64c3200",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "!non-group/@ reminder.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "@ reminder"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "44ad5c3328437527",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "53e04557fd64e908",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -258,35 +306,36 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "4df30868b215fe6e",
+  "active": "441ed0ad013a4ec0",
   "lastOpenFiles": [
+    "gesellschaft/gesellschaft (dataview).md",
+    "gesellschaft/@ gesellschaft.md",
+    "psx lain/psx lain.canvas",
+    "UNIMEL/@ UNIMEL.md",
+    "psx.md",
+    "games/voices of the void/voices of the void.md",
+    "Untitled.canvas",
+    "sem2 midterm.md",
+    "Untitled.md",
+    "!outsider-note/Aisyah/Untitled.md",
+    "unim.md",
+    "UNIMEL/DIT final.md",
+    "linux/archlinux/pywal (archlinux).md",
+    "linux/@ linux.md",
+    "linux/archlinux/play steam games from windows drive (archlinux).md",
+    "linux/archlinux/certain game that have its file on another location (archlinux).md",
+    "linux/archlinux/gaming guide (archlinux).md",
+    "linux/archlinux/access windows drive (archlinux).md",
+    "linux/archlinux/obsidian zoom fix (archlinux).md",
     "mpu final topic 3.md",
     "!outsider-note/Aisyah/mpu final.md",
     "mpu final topic 2.md",
-    "gesellschaft/gesellschaft (dataview).md",
     "!non-group/@ reminder.md",
-    "Untitled.md",
     "!outsider-note/Airell Study/DCS Chapter 1.md",
     "!outsider-note/Airell Study/CLICK ME SEM 1.md",
     "toys/website link toys.md",
     "toys/tools and toys.md",
-    "toys/terminal toys/terminal toys.md",
-    "toys/terminal toys/imagemagick.md",
-    "toys/terminal toys/ffmpeg.md",
-    "toys/terminal toys/archive file.md",
-    "toys/application toys.md",
-    "windows/CLI app.md",
-    "windows/customise apps.md",
-    "windows/cmd command.md",
-    "@ note that may be usefull/how to craked code on webside.md",
-    "@ note that may be usefull/@ note that may be usefull.md",
-    "@ temporary note/bspwm.md",
-    "@ temporary note/@ temporary note.md",
-    "android/adb command.md",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
-    "coding/c++/c++.md",
-    "coding/c++/basic element.md",
-    "coding/@ coding.md",
     "!outsider-note/Aisyah",
     "linux/grub",
     "UNIMEL/mpu",
@@ -300,12 +349,10 @@
     "eq apo n peace interface/asset/eq2-graph.png",
     "obsidian/Untitled",
     "toys/terminal toys",
-    "psx lain/psx lain.canvas",
     "!outsider-note",
     "gesellschaft",
     "!non-group",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "!asset/gesellschaft.png",
     "!asset/header.jpg",
     "!asset/call-it-a-day.jpg",
