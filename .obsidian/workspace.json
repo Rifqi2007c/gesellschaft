@@ -82,8 +82,7 @@
                   "title": "Terminal: ~/gesellschaft"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "fddbf6899a3ab430",
@@ -320,7 +319,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "441ed0ad013a4ec0",
+  "active": "8bd9b13266953627",
   "lastOpenFiles": [
     "obsidian/git sync obsidian.md",
     "gesellschaft/gesellschaft (dataview).md",
