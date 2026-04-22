@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "obsidian/git sync obsidian.md",
+      "timestamp": 1776864682669
+    },
+    {
+      "filepath": "gesellschaft/gesellschaft (dataview).md",
+      "timestamp": 1776864583467
+    }
+  ],
   "bookmarkedFileStore": [
     {
       "filepath": "gesellschaft/@ gesellschaft.md"
