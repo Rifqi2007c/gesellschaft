@@ -13,7 +13,7 @@
             "dimension": 70.12738853503184,
             "children": [
               {
-                "id": "8bd9b13266953627",
+                "id": "ef371b4810b88cd9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -24,62 +24,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "gesellschaft (dataview)"
-                }
-              },
-              {
-                "id": "ef371b4810b88cd9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian/git sync obsidian.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "git sync obsidian"
-                }
-              },
-              {
-                "id": "441ed0ad013a4ec0",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/rifqi/gesellschaft/gesellschaft",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/run/current-system/sw/bin/fish",
-                        "followTheme": true,
-                        "name": "geselschaft-nix console",
-                        "platforms": {
-                          "darwin": false,
-                          "linux": true,
-                          "win32": false
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ~/gesellschaft"
                 }
               }
             ]
@@ -319,14 +263,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8bd9b13266953627",
+  "active": "ef371b4810b88cd9",
   "lastOpenFiles": [
-    "obsidian/git sync obsidian.md",
     "gesellschaft/gesellschaft (dataview).md",
+    "obsidian/git sync obsidian.md",
     "gesellschaft/@ gesellschaft.md",
+    "psx.md",
     "psx lain/psx lain.canvas",
     "UNIMEL/@ UNIMEL.md",
-    "psx.md",
     "games/voices of the void/voices of the void.md",
     "Untitled.canvas",
     "sem2 midterm.md",
