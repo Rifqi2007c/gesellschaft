@@ -131,3 +131,7 @@ blockquote {
     background-color: var(--text-highlight-bg);
     color: lch(from var(--text-normal) calc(l - 100) c h);
 }
+
+.theme-dark :not(pre)>code[class*='language-'], .theme-dark pre[class*='language-'] {
+    background: var(--code-background);
+}

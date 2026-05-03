@@ -18,7 +18,10 @@
 - gg, VG
 ##### delete selected
 - d
-### find text
+
+#### change focus
+- ctrl + w, then w or \<arrow key\>
+#### find text
 - /
 - n (go to next sequence)
 - N (go to previosus sequence)

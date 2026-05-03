@@ -6,11 +6,11 @@
   "interfaceFontFamily": "0xProto Nerd Font",
   "enabledCssSnippets": [
     "default-zoom",
-    "color",
     "cursor-block",
-    "custom-readable-length",
     "notitle-embbeded",
-    "Table-centre"
+    "Table-centre",
+    "color",
+    "custom-readable-length"
   ],
   "accentColor": "",
   "showRibbon": false,

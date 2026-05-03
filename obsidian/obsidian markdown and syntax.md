@@ -1,18 +1,18 @@
-- ### heading
-	- # heading 1
-	`### heading1`
-	- ## heading 2
-	`## heading 2`
-	- ### heading 3
-	`heading 3`
-	- #### heading 4
-	`#### heading 4`
-	- heading 5
-	`##### heading 5`
-	- heading 6
-	`###### heading 6`
+### heading
+- # heading 1
+	-	`### heading1`
+- ## heading 2
+	- `## heading 2`
+- ### heading 3
+	- `heading 3`
+- #### heading 4
+	- `#### heading 4`
+- heading 5
+	- `##### heading 5`
+- heading 6
+	- `###### heading 6`
 
-- ### bold, italics, highlights
+### bold, italics, highlights
 
 | style                  | markdown               | example                      | output                   |
 | ---------------------- | ---------------------- | ---------------------------- | ------------------------ |
@@ -22,30 +22,30 @@
 | highlight              | `== ==`                | `==text==`                   | ==text==                 |
 | bold and nested italic | `_ _` inside `** **`   | `**text _text2_ text**`      | **text _text2_ text**    |
 | bold and italic        | `*** ***` or `___ ___` | `***text***` or `___text___` | ***text*** or ___text___ |
-- ### internal link
-	- wikilink example: `[[gesellschaft]]`
-	[[@ gesellschaft]]
-	- markdown example: `[windows](windows%20apps.md)`. (`[windows](path/to/note)`)
-	[windows](windows%20apps.md)
+### internal link
+- wikilink example: `[[gesellschaft]]`
+	output: [[@ gesellschaft]]
+- markdown example: `[windows](windows%20apps.md)`. (`[windows](path/to/note)`)
+	output: [windows](windows%20apps.md)
 > markdown destination link:
 > if link/note name has spaces, replace it with `%20`
 > you can also put it in `< >`. example: `<windows apps.md>`
 
-- ### external link
-	- also known as link to site with custom name, example: `[github](https://github.com/Rifqi2007c)`
-	[github](https://github.com/Rifqi2007c)
+### external link
+- also known as link to site with custom name, example: `[github](https://github.com/Rifqi2007c)`
+	output: [github](https://github.com/Rifqi2007c)
 
-- ### embedded image
-	- use `![[]]` put `path/to/image` or url and resize to suitable pixel size with `|witdh x height` or just width after `path/to/image` or url
-		- internal image example: `![[the silly.jpg|200]]`
+### embedded image
+- use `![[]]` put `path/to/image` or url and resize to suitable pixel size with `|witdh x height` or just width after `path/to/image` or url
+	- internal image example: `![[the silly.jpg|200]]`
 		![[the silly.jpg|200]]
-		- external image example: `![mili-k2](https://preview.redd.it/mili-mascot-k2-v0-2r6229w5zvzf1.jpg?width=1080&crop=smart&auto=webp&s=9d78bac41e904983f69d7c29cb14d4b141c47667)`
+	- external image example: `![mili-k2](https://preview.redd.it/mili-mascot-k2-v0-2r6229w5zvzf1.jpg?width=1080&crop=smart&auto=webp&s=9d78bac41e904983f69d7c29cb14d4b141c47667)`
 		![mili-k2|200](https://preview.redd.it/mili-mascot-k2-v0-2r6229w5zvzf1.jpg?width=1080&crop=smart&auto=webp&s=9d78bac41e904983f69d7c29cb14d4b141c47667)
 
-- ### list
-	- #### unodered list
-		- create list by using `-`, `*`, or `+`
-		- example:
+### list
+- #### unodered list
+	- create list by using `-`, `*`, or `+`
+	- example:
 ```
 - text 1
 - text 2
@@ -97,8 +97,8 @@ output:
 - [x] task 3
 > you also can press TAB to create subtask
 
-- ### horizontal rule/line
-	- create line using three or more `***`, `---`, `___`
+### horizontal rule/line
+- create line using three or more `***`, `---`, `___`
 	- example:
 ```
 ***
@@ -114,14 +114,14 @@ _ _ _
 output (`****`):
 ****
 
-- ### code
-	- #### inline code
-		- put text inside _backtick_(\`\`)
-		- example: \`text\`
+### code
+- #### inline code
+	- put text inside _backtick_(\`\`)
+	- example: \`text\`
 		output: `text`
-	- #### code block
-		- create code block using use three _backtick_ or _tilde_(\~\~\~) and put another three after it or your text/code
-		- example(\`\`\`):
+- #### code block
+	- create code block using use three _backtick_ or _tilde_(\~\~\~) and put another three after it or your text/code
+	- example(\`\`\`):
 		````md
 		```
 		text
@@ -156,7 +156,7 @@ function fancyAlert(arg) {
 
 - ### nesting code block (for making note)
 	- create nested code block using there or more _backtick_ (more that the _backtick_ use for code that needed to be nested)
-	- example + output
+	- example + output:
 `````md
 ````md
 ```
@@ -178,7 +178,7 @@ graph TD
 ````
 `````
 
-- ### footnote
+### footnote
 ```md
 [^1]: This is the referenced text
 [^2]: Add 2 spaces at the start of each new line
@@ -190,14 +190,14 @@ example + output:
 - footnote [^2]
 - named footnode [^heheheha]
 
-- ### comments
-	- create comment using `%%`, text in the middle and close with another `%%`
-	- example: `text %%comment%%`
+### comments
+- create comment using `%%`, text in the middle and close with another `%%`
+- example: `text %%comment%%`
 	output:
 	text %%coment%%
 > commend only visible in editing view
 
-- ### escaping markdown syntax
+### escaping markdown syntax
 - in other word, when special character that are syntax is needed without triggering their formating, put `\` before your note
 - example:
 ````md

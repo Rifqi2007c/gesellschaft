@@ -18,15 +18,86 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "!non-group/neovim keybind.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "neovim keybind"
+                }
+              },
+              {
+                "id": "72b8f80234051ed9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/rifqi/gesellschaft/!non-group",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/run/current-system/sw/bin/fish",
+                        "followTheme": true,
+                        "name": "geselschaft-nix console",
+                        "platforms": {
+                          "darwin": false,
+                          "linux": true,
+                          "win32": false
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ~/gesellschaft"
+                }
+              },
+              {
+                "id": "51b453d351dfd5ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "gesellschaft/gesellschaft (dataview).md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "gesellschaft (dataview)"
                 }
+              },
+              {
+                "id": "ce11f779a6844d88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian/obsidian markdown and syntax.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "obsidian markdown and syntax"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "fddbf6899a3ab430",
@@ -263,11 +334,20 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ef371b4810b88cd9",
+  "active": "72b8f80234051ed9",
   "lastOpenFiles": [
+    "!non-group/neovim keybind.md",
+    "obsidian/obsidian markdown and syntax.md",
     "gesellschaft/gesellschaft (dataview).md",
-    "obsidian/git sync obsidian.md",
+    "obsidian/obsidian.md.md",
+    "windows/windows.md",
     "gesellschaft/@ gesellschaft.md",
+    "toys/application toys.md",
+    "toys/website link toys.md",
+    "toys/tools and toys.md",
+    "obsidian/git sync obsidian.md",
+    "BIOS/delete boot entries.md",
+    "BIOS/BIOS.md",
     "psx.md",
     "psx lain/psx lain.canvas",
     "UNIMEL/@ UNIMEL.md",
@@ -284,15 +364,6 @@
     "linux/archlinux/certain game that have its file on another location (archlinux).md",
     "linux/archlinux/gaming guide (archlinux).md",
     "linux/archlinux/access windows drive (archlinux).md",
-    "linux/archlinux/obsidian zoom fix (archlinux).md",
-    "mpu final topic 3.md",
-    "!outsider-note/Aisyah/mpu final.md",
-    "mpu final topic 2.md",
-    "!non-group/@ reminder.md",
-    "!outsider-note/Airell Study/DCS Chapter 1.md",
-    "!outsider-note/Airell Study/CLICK ME SEM 1.md",
-    "toys/website link toys.md",
-    "toys/tools and toys.md",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
     "!outsider-note/Aisyah",
     "linux/grub",
