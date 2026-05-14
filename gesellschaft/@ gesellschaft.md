@@ -32,6 +32,7 @@ only search bar
 * [[tools and toys]]![[tools and toys|no-title]]
 * [[sql]]
 - [[psx lain]]![[psx lain|no-title]]
+* [[electronics]]![[electronics|no-title]]
 ## [[@ temporary note]]![[@ temporary note|no-title]]
 ## [[@ note that may be usefull]]![[@ note that may be usefull|no-title]]
 ------

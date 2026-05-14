@@ -10,31 +10,45 @@
           {
             "id": "d87816f6d6bb7d94",
             "type": "tabs",
-            "dimension": 70.12738853503184,
+            "dimension": 72.61146496815287,
             "children": [
               {
-                "id": "ef371b4810b88cd9",
+                "id": "dd9a1d3d6aaca10e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "!non-group/neovim keybind.md",
+                    "file": "gesellschaft/gesellschaft (dataview).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "neovim keybind"
+                  "title": "gesellschaft (dataview)"
                 }
               },
               {
-                "id": "72b8f80234051ed9",
+                "id": "265b718afa652c3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ethic computer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ethic computer"
+                }
+              },
+              {
+                "id": "3b7bcac5dbe6ab6b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "/home/rifqi/gesellschaft/!non-group",
+                      "cwd": "/home/rifqi/gesellschaft",
                       "focus": false,
                       "profile": {
                         "args": [],
@@ -67,42 +81,14 @@
                   "icon": "terminal",
                   "title": "Terminal: ~/gesellschaft"
                 }
-              },
-              {
-                "id": "51b453d351dfd5ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gesellschaft/gesellschaft (dataview).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gesellschaft (dataview)"
-                }
-              },
-              {
-                "id": "ce11f779a6844d88",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "obsidian/obsidian markdown and syntax.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "obsidian markdown and syntax"
-                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "fddbf6899a3ab430",
             "type": "split",
-            "dimension": 29.872611464968156,
+            "dimension": 27.38853503184713,
             "children": [
               {
                 "id": "6489f6a7ee3e084a",
@@ -207,8 +193,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,36 +319,38 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "72b8f80234051ed9",
+  "active": "3b7bcac5dbe6ab6b",
   "lastOpenFiles": [
-    "!non-group/neovim keybind.md",
-    "obsidian/obsidian markdown and syntax.md",
-    "gesellschaft/gesellschaft (dataview).md",
-    "obsidian/obsidian.md.md",
-    "windows/windows.md",
+    "ethic computer.md",
+    "computer maintainence.md",
     "gesellschaft/@ gesellschaft.md",
-    "toys/application toys.md",
-    "toys/website link toys.md",
-    "toys/tools and toys.md",
-    "obsidian/git sync obsidian.md",
-    "BIOS/delete boot entries.md",
-    "BIOS/BIOS.md",
-    "psx.md",
-    "psx lain/psx lain.canvas",
-    "UNIMEL/@ UNIMEL.md",
-    "games/voices of the void/voices of the void.md",
-    "Untitled.canvas",
-    "sem2 midterm.md",
-    "Untitled.md",
-    "!outsider-note/Aisyah/Untitled.md",
-    "unim.md",
+    "!non-group/neovim keybind.md",
+    "sfml.md",
+    "mpu final topic 2.md",
+    "mpu final topic 3.md",
+    "UNIMEL/markah kursus.md",
+    "UNIMEL/mpu assignment.md",
+    "UNIMEL/jadual sem 1.md",
     "UNIMEL/DIT final.md",
-    "linux/archlinux/pywal (archlinux).md",
+    "UNIMEL/DIS final.md",
+    "UNIMEL/dcs final exam.md",
+    "electronics/electronics.md",
+    "electronics/arduino-module.md",
+    "electronics/pins placement on breadboard.md",
+    "gesellschaft/gesellschaft (dataview).md",
+    "linux/nixos/nixos.md",
     "linux/@ linux.md",
-    "linux/archlinux/play steam games from windows drive (archlinux).md",
-    "linux/archlinux/certain game that have its file on another location (archlinux).md",
-    "linux/archlinux/gaming guide (archlinux).md",
-    "linux/archlinux/access windows drive (archlinux).md",
+    "linux/nixos/bootloader recover step (nixos).md",
+    "linux/nixos",
+    "UNIMEL/@ UNIMEL.md",
+    "linux/archlinux/pywal (archlinux).md",
+    "pyw.md",
+    "electronics",
+    "microcontroller.md",
+    "toys/terminal toys/ffmpeg.md",
+    "obsidian/obsidian markdown and syntax.md",
+    "psx lain/psx lain.canvas",
+    "Untitled.canvas",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
     "!outsider-note/Aisyah",
     "linux/grub",
@@ -379,8 +366,6 @@
     "obsidian/Untitled",
     "toys/terminal toys",
     "!outsider-note",
-    "gesellschaft",
-    "!non-group",
     "Untitled 1.canvas",
     "!asset/gesellschaft.png",
     "!asset/header.jpg",
