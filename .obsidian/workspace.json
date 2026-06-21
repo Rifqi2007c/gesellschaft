@@ -13,35 +13,7 @@
             "dimension": 72.61146496815287,
             "children": [
               {
-                "id": "dd9a1d3d6aaca10e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gesellschaft/gesellschaft (dataview).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gesellschaft (dataview)"
-                }
-              },
-              {
-                "id": "265b718afa652c3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ethic computer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ethic computer"
-                }
-              },
-              {
-                "id": "3b7bcac5dbe6ab6b",
+                "id": "59a3b68734258b5e",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -81,9 +53,22 @@
                   "icon": "terminal",
                   "title": "Terminal: ~/gesellschaft"
                 }
+              },
+              {
+                "id": "25bf9d6e1d9957db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "git/git basic.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "git basic"
+                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "fddbf6899a3ab430",
@@ -193,7 +178,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -319,11 +305,30 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3b7bcac5dbe6ab6b",
+  "active": "59a3b68734258b5e",
   "lastOpenFiles": [
-    "ethic computer.md",
-    "computer maintainence.md",
+    "git/git basic.md",
+    "!non-group/@ reminder.md",
+    "gesellschaft/gesellschaft (dataview).md",
+    "!non-group/webrings.md",
+    "git/git.md",
+    "obsidian/git sync obsidian.md",
+    "git basic.md",
+    "games/voices of the void/voices of the void.md",
+    "git",
+    "Untitled.base",
+    "git basic",
+    "toys/terminal toys/terminal toys.md",
+    "toys/tools and toys.md",
+    "toys/website link toys.md",
     "gesellschaft/@ gesellschaft.md",
+    "electronics/pins placement on breadboard.md",
+    "ethic computer.md",
+    "testpad.md",
+    "computer maintainence.md",
+    "linux/archlinux/access windows drive (archlinux).md",
+    "linux/nixos/bootloader recover step (nixos).md",
+    "linux/nixos/nixos.md",
     "!non-group/neovim keybind.md",
     "sfml.md",
     "mpu final topic 2.md",
@@ -331,24 +336,8 @@
     "UNIMEL/markah kursus.md",
     "UNIMEL/mpu assignment.md",
     "UNIMEL/jadual sem 1.md",
-    "UNIMEL/DIT final.md",
-    "UNIMEL/DIS final.md",
-    "UNIMEL/dcs final exam.md",
-    "electronics/electronics.md",
-    "electronics/arduino-module.md",
-    "electronics/pins placement on breadboard.md",
-    "gesellschaft/gesellschaft (dataview).md",
-    "linux/nixos/nixos.md",
-    "linux/@ linux.md",
-    "linux/nixos/bootloader recover step (nixos).md",
     "linux/nixos",
-    "UNIMEL/@ UNIMEL.md",
-    "linux/archlinux/pywal (archlinux).md",
-    "pyw.md",
     "electronics",
-    "microcontroller.md",
-    "toys/terminal toys/ffmpeg.md",
-    "obsidian/obsidian markdown and syntax.md",
     "psx lain/psx lain.canvas",
     "Untitled.canvas",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
@@ -363,9 +352,6 @@
     "!asset/proxy.png",
     "eq apo n peace interface/asset/eq2.png",
     "eq apo n peace interface/asset/eq2-graph.png",
-    "obsidian/Untitled",
-    "toys/terminal toys",
-    "!outsider-note",
     "Untitled 1.canvas",
     "!asset/gesellschaft.png",
     "!asset/header.jpg",

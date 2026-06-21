@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false
 }

@@ -1,20 +1,20 @@
-s1 CPU
+s1ch4 CPU
 - overclocking
 - overheating
 
-s2 Memory
+s2ch5 Memory
 - apa nak buat sebeum naik taraf
 - cara/langakah pasang memory
 
-s3 Storan
+s3ch6 Storan
 - NVme, SSD, m.2
 - RAID array
 - masalah semasa pasang hard disk
 	- bunyi beep
 	- ape penyelesaian
 
-s4 Peranti I/O
+s4ch7 Peranti I/O
 - sambungan port
 
-s5 Multimedia dan storage
+s5ch8 Multimedia dan storage
 - kelemahan storan optic masa kini
