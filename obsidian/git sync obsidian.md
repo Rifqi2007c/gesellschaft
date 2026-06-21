@@ -17,6 +17,8 @@
 - look at the generated key: `cat ~/.ssh/id_ed25519.pub`
 - copy the key and paste it in github ssh key
 	- settings(profile) > SSH and GPG keys
+- update url if needed: `git remote set-url <branch> <ssh-url>`
+	- example: `git remote set-url origin git@github.com:Rifqi2007c/hyprland.git`
 
 ### obsidian
 - download git extention

@@ -1,0 +1,17 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.tags
+  - type: cards
+    name: Cards
+  - type: list
+    name: List
+    markers: number

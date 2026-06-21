@@ -139,6 +139,13 @@
         "a": 1,
         "rgb": 16762880
       }
+    },
+    {
+      "query": "tag:#git  ",
+      "color": {
+        "a": 1,
+        "rgb": 4669565
+      }
     }
   ],
   "collapse-display": true,
