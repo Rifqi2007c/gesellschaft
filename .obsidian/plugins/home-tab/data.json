@@ -24,8 +24,28 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "obsidian/git sync obsidian.md",
+      "timestamp": 1782064204583
+    },
+    {
       "filepath": "gesellschaft/gesellschaft (dataview).md",
+<<<<<<< HEAD
       "timestamp": 1782099055594
+=======
+      "timestamp": 1782064199006
+    },
+    {
+      "filepath": "git/git basic.md",
+      "timestamp": 1782064181124
+    },
+    {
+      "filepath": "gesellschaft/gesellschaft database.base",
+      "timestamp": 1782061756089
+    },
+    {
+      "filepath": "git/git.md",
+      "timestamp": 1782061477148
+>>>>>>> 9a1718c2ea13535444b1ca6cb6450a3c2a77ca45
     }
   ],
   "bookmarkedFileStore": [
