@@ -4,6 +4,8 @@
 - [math gpt ai](https://math-gpt.ai/)
 - [spritesheets maker](https://www.finalparsec.com/tools/sprite_sheet_maker)
 - [image upscaler](https://ai.nero.com/image-upscaler/?gad_source=1&gad_campaignid=21303383018)
-- [center of my screen](https://centerofmyscreen.com/)]
+- [center of my screen](https://centerofmyscreen.com/)
+- [strudel repl](https://strudel.cc/)
+- [any audio to midi converter](https://www.ofoct.com/audio-converter/convert-wav-or-mp3-ogg-aac-wma-to-midi.html)
 ----
 #toys 

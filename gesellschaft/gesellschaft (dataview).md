@@ -29,6 +29,12 @@ SORT file.ctime DESC
 ```
 ```dataview
 TABLE without ID
+file.link As "git", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
+FROM "git"
+SORT file.ctime DESC
+```
+```dataview
+TABLE without ID
 file.link AS "obsidian", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
 FROM "obsidian"
 SORT file.ctime DESC

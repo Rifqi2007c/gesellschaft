@@ -33,6 +33,7 @@ only search bar
 * [[sql]]
 - [[psx lain]]![[psx lain|no-title]]
 * [[electronics]]![[electronics|no-title]]
+- [[git]]![[git|no-title]] 
 ## [[@ temporary note]]![[@ temporary note|no-title]]
 ## [[@ note that may be usefull]]![[@ note that may be usefull|no-title]]
 ------

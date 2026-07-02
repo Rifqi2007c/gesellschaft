@@ -24,28 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "obsidian/git sync obsidian.md",
-      "timestamp": 1782064204583
-    },
-    {
       "filepath": "gesellschaft/gesellschaft (dataview).md",
-<<<<<<< HEAD
-      "timestamp": 1782099055594
-=======
-      "timestamp": 1782064199006
+      "timestamp": 1783020072546
     },
     {
-      "filepath": "git/git basic.md",
-      "timestamp": 1782064181124
+      "filepath": "!non-group/webrings.md",
+      "timestamp": 1783020051538
     },
     {
-      "filepath": "gesellschaft/gesellschaft database.base",
-      "timestamp": 1782061756089
+      "filepath": "toys/website link toys.md",
+      "timestamp": 1783019942711
     },
     {
-      "filepath": "git/git.md",
-      "timestamp": 1782061477148
->>>>>>> 9a1718c2ea13535444b1ca6cb6450a3c2a77ca45
+      "filepath": "linux/archlinux/gaming guide (archlinux).md",
+      "timestamp": 1783019926714
+    },
+    {
+      "filepath": "obsidian/obsidian markdown and syntax.md",
+      "timestamp": 1783019924299
     }
   ],
   "bookmarkedFileStore": [
