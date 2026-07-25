@@ -1,4 +1,4 @@
-- [[obsidian markdown and syntax]]
+- [[obsidian markdown and syntax + keybind]]
 - [obsidian online guide](https://help.obsidian.md/syntax)
 - [[git sync obsidian]]
 #obsidian 

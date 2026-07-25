@@ -55,7 +55,7 @@
                 }
               },
               {
-                "id": "79391e262a7da967",
+                "id": "e35361de10e8f992",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -66,20 +66,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "gesellschaft (dataview)"
-                }
-              },
-              {
-                "id": "2c49000f9c08a04a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://classroom.google.com/c/ODU0NjIzMjI2MDMx/m/ODU0NjIzMjI2MDUw/details",
-                    "title": "Lecture Notes - Classroom",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Lecture Notes - Classroom"
                 }
               }
             ]
@@ -97,14 +83,13 @@
                     "id": "021bd34ee64c3200",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "bases",
                       "state": {
-                        "file": "!non-group/@ reminder.md",
-                        "mode": "source",
-                        "source": false
+                        "file": "gesellschaft/gesellschaft database.base",
+                        "viewName": "Table"
                       },
-                      "icon": "lucide-file",
-                      "title": "@ reminder"
+                      "icon": "lucide-table",
+                      "title": "gesellschaft database"
                     }
                   }
                 ]
@@ -322,38 +307,39 @@
   "active": "59a3b68734258b5e",
   "lastOpenFiles": [
     "gesellschaft/gesellschaft (dataview).md",
-    "toys/website link toys.md",
-    "!non-group/webrings.md",
-    "linux/archlinux/gaming guide (archlinux).md",
-    "obsidian/obsidian markdown and syntax.md",
-    "obsidian/obsidian.md.md",
-    "gesellschaft/@ gesellschaft.md",
+    "!non-group/neovim keybind and command.md",
     "UNIMEL/project dcs 2043.md",
+    "obsidian/obsidian markdown and syntax + keybind.md",
+    "!non-group/webrings.md",
+    "obsidian/git sync obsidian.md",
+    "obsidian/the silly.jpg",
+    "obsidian/Untitled.md",
+    "obsidian/obsidian.md.md",
+    "toys/website link toys.md",
+    "!non-group/todoist.md",
+    "psx lain/psx lain.canvas",
+    "psx lain/recording.md",
+    "psx lain/psx lain.md",
+    "psx lain/diary.md",
+    "psx lain/collectable and tape.md",
+    "gesellschaft/gesellschaft database.base",
+    "gesellschaft/Untitled.md",
+    "gesellschaft/@ gesellschaft.md",
+    "!non-group/@ reminder.md",
+    "gesellschaft/LaTex.md",
+    "linux/archlinux/gaming guide (archlinux).md",
     "coding/c++/c++.md",
     "coding/@ coding.md",
-    "gesellschaft/gesellschaft database.base",
     "UNIMEL/@ UNIMEL.md",
     "git/git.md",
     "git/git basic.md",
     "coding/sfml.md",
     "coding/language.md",
-    "!non-group/todoist.md",
-    "!non-group/quotes.md",
-    "computer maintainence.md",
-    "sem2 midterm.md",
-    "ethic computer.md",
-    "gesellschaft/refine later.md",
-    "obsidian/git sync obsidian.md",
-    "obsidia.md",
-    "!non-group/@ reminder.md",
-    "git basic.md",
-    "games/voices of the void/voices of the void.md",
     "git",
     "Untitled.base",
     "git basic",
     "linux/nixos",
     "electronics",
-    "psx lain/psx lain.canvas",
     "Untitled.canvas",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
     "!outsider-note/Aisyah",
@@ -368,7 +354,6 @@
     "Untitled 1.canvas",
     "!asset/gesellschaft.png",
     "!asset/header.jpg",
-    "!asset/call-it-a-day.jpg",
     "UNIMEL/DCS/example selection control structure.canvas",
     "UNIMEL/DCS/test.canvas"
   ]

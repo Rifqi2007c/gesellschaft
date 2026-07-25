@@ -1,0 +1,21 @@
+{
+  "unlockedSpecies": [
+    "bluebird",
+    "americanRobin",
+    "redCardinal",
+    "paintedBunting",
+    "blackCappedChickadee"
+  ],
+  "currentSpecies": "paintedBunting",
+  "unlockedHats": [
+    "none",
+    "wizard-hat",
+    "flower-hat"
+  ],
+  "currentHat": "flower-hat",
+  "settings": {
+    "birbScaleMultiplier": 1.5,
+    "uiScaleMultiplier": 1.1,
+    "birbMode": true
+  }
+}

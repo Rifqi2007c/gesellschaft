@@ -9,9 +9,9 @@ berkomputer bagi meningkatkan kecekapan operasi.
 1. aktor sistem
 	- Pelanggan (pelajar)
 		- Mencari buku, menyemak ketersediaan naskah, membuat tempahan, memperbaharui tempoh pinjaman, dan menyemak rekod denda
-		- Pustakawan (staf perpustakaan)
+	- Pustakawan (staf perpustakaan)
 			- Mengurus pendaftaran pengguna, merekod transaksi pinjaman dan pemulangan, mengemas kini katalog bahan bacaan, menjana laporan, dan mengurus denda
-		- pentadbir sistem
+	- pentadbir sistem
 			- Menyelenggara pelayan, mengurus pangkalan data, menetapkan kebenaran akses (privilege) pengguna, dan memastikan keselamatan sistem berjalan lancar
 2. input, proses dan output sistem
 	- input:
@@ -36,3 +36,50 @@ berkomputer bagi meningkatkan kecekapan operasi.
 	- **Sistem Sumber Terbuka (Open Source):** Penggunaan sistem seperti **Koha** adalah sangat disyorkan. Ia adalah sistem gred profesional, berskala besar, dan digunakan oleh pelbagai institusi
 	- **Pangkalan Data (Database):** MySQL atau PostgreSQL untuk menyimpan data rekod inventori buku, transaksi, dan maklumat pengguna yang selamat
 	- **Platform Pelayan:** Pengehosan berasaskan awan (_cloud-based_) untuk membolehkan akses 24/7 dari mana-mana lokasi melalui pelayar web
+
+____
+### Kenalpasti Erd
+- pelajar
+	- (PK) Ic_pelajar | int
+	- Nama | varChar
+	- Fakulti | varChar
+	- nomobor telefon | int
+- pustakwan
+	- (PK) Id_staff | int
+	- Nama | varChar
+	- Fakulti | varChar
+	- nombor telefon | int
+- Pinjaman
+	- (PK) Id_pinjaman | int
+	- buku | varChar
+	- kategori | varChar
+	- Tarikh | int
+	- (FK) Ic_pelajar | int
+- Transaksi
+	- (PK) Id_transaksi | int
+	- Jumlah | varChar
+	- cara pembayaran | varChar
+- resit
+	- (PK) Id resit | int
+	- Tarikh | int
+	- masa | int
+	- (FK) Id_pinjamn | int
+	- (FK) Id_transaksi | int
+- denda
+	- (PK) Id_denda | int 
+	- Tarikh | int
+	- Jumlah | varChar
+	- status | varChar
+	- (FK) Id_transaksi | int
+- Arahan Permulangan
+	- (PK, FK) IC_pelajar | int
+	- (PK, Fk) Id_pinjaman  | int
+	- tarikh | int
+
+### relation
+- Pelajar *membuat* Pinjaman
+- Pustakan *menguruskan* Pinjaman
+- Pelajar *membuat* Transaksi
+- Transaksi *memberi* Resit
+- Denda *dikenakan jika gagal* Permulangan
+- Arahan Permulangan *diadakan ke* pelajar

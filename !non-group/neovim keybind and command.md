@@ -1,24 +1,29 @@
 ##### insert mode
 - i
-	- exit insert mode: esc
+- exit insert mode: esc
 ##### command panel
 - :
 ##### save
-- w (in command panel)
-- save and exit: wq (in command panel)
+- `:w` save
+- `:wq` save and quit
+> can be use with `!` to force. `:w!`
 ##### quit
-- q (in command panel)
+- `:q` quit one file
+- `:qall` quit all
+> can be use with `!` to force quit. `q!`
 ##### copy/paste
 - requirement: `wl-clipboard`(wayland) or `xorg-xclipboard`(X11)
 - keybind
 	- copy: y (yanked)
 	- paste: p
 
-##### select entire file to something
-- gg, VG
+##### select entire file for something
+- gg then VG
 ##### delete selected
 - d
-
+#### change tab
+- \[ or \] then b
+- if newtab is created using `:tabnew` then gt (next) or gT (previuos)
 #### change focus
 - ctrl + w, then w or \<arrow key\>
 #### find text

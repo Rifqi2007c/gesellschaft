@@ -25,7 +25,7 @@ only search bar
 * [[eq apo n peace interface]]![[eq apo n peace interface|no-title]]
 - [[android]]![[android|no-title]]
 * [[@ linux]]![[@ linux|no-title]]
-- [[neovim keybind]]
+- [[neovim keybind and command]]
 - [[webrings]]
 * [[@ coding]]![[@ coding|no-title]]
 - [[BIOS]]![[BIOS|no-title]]

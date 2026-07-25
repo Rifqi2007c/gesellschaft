@@ -1,0 +1,82 @@
+- ### lvl 4
+	- #### Cou
+		- *Cou* 001
+			- obstacle -> Lda 019 (lvl 09)
+		- Cou 002
+			- dislike -> Cou 032 (lvl 13)
+		- Cou 003
+			- individuation -> Dc1016 (lvl 09)
+		- Cou 004
+	- #### Dia
+		- Dia 001
+			- family -> Lda 039 (lvl 11)
+		- Dia 002
+			- character -> Dc 1007
+		- Dia 003
+		- Dia 004
+			- impression -> Dia 005 (lvl 05)
+	- #### Tda
+		- Tda 028
+			- eye -> Cou 019 (lvl 07)
+		- Tda 026
+			- happiness -> Cou 032 (lvl 13)
+		- Tda 024
+			- lain -> Tda 044 (lvl 22)
+		- Tda 025
+		- Tda 027 (!)
+- ### lvl 5
+	- #### Cou
+		- Cou 005
+			- doll -> Lda 076 (lvl 16)
+		- Cou 006
+		- Cou 007
+			- study -> Lda 042 (lvl 12)
+		- Cou 008
+			- -> Dc 1018
+		- Cou 009
+			- body -> Dc 1016
+		- Cou 010
+	- #### Dia
+		- Dia 005
+		- Dia 006
+		- Dia 007
+			- decision -> Dc 1012 (lvl 16)
+		- Dia 008
+			- game -> Lda 044 (lvl 12)
+		- Dia 009
+		- Dia 010
+			- possible -> Dia 003 (lvl 04)
+	- #### Tda
+	- Tda 032
+		- kanako -> Tda 033 (lvl 05)
+	- Tda 033
+	- Tda 034
+	- Tda 029
+	- Tda 030
+	- Tda 031
+	- Tda 035 (!)
+### Counseling (Cou)
+- 001
+- 002
+- 003
+- 004
+- 005
+- 006
+- 007
+- 008
+- 009
+- 010
+### Diagnosis (Dia)
+- 001
+- 002
+- 003
+- 004
+- 005
+- 006
+- 007
+- 008
+- 009
+- 010
+
+---
+#psxlain 

@@ -1,3 +1,10 @@
+# keybind (basic)
+#### control panel
+- ctrl + P
+#### find text
+- ctrl + f
+___
+# markdown and syntax
 ### heading
 - # heading 1
 	-	`### heading1`

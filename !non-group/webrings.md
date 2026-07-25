@@ -16,7 +16,11 @@
 - prescript - https://prescript.neocities.org
 ### games
 - grow - https://www.eyezmaze.com/sp/2008/02/growNanoVol3.html
-- open source game compile by [dacctal](https://www.youtube.com/@dacctal)
+- open source game compilation by [dacctal](https://www.youtube.com/@dacctal)
 	- https://symlinx.net/dacctal/sources/open_source_games/
+### tools
+- [nosignups.net](https://nosignups.net/) - a compilation of usable tool wihout sign up (mostly opensource)
+- [delphi.tools](https://delphi.tools/) - a bunch of "low-effort tools" (say the creator)
+- [strudel repl](https://strudel.cc/) - make beat with coding (JavaScript)
 ----
 #webrings

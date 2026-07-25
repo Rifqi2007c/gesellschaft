@@ -135,3 +135,11 @@ blockquote {
 .theme-dark :not(pre)>code[class*='language-'], .theme-dark pre[class*='language-'] {
     background: var(--code-background);
 }
+
+.home-tab-searchbar.svelte-1v6c0q.svelte-1v6c0q {
+    background-color: lch(from var(--background-primary) calc(l - 90) c h) !important;
+}
+
+.home-tab-suggestion-container.svelte-mdftrq {
+    background-color: lch(from var(--background-primary) calc(l - 90) c h) !important;
+}
