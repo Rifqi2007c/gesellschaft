@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "gesellschaft/@ gesellschaft.md",
+      "timestamp": 1786525652913
+    },
+    {
+      "filepath": "!non-group/LaTex test.md",
+      "timestamp": 1786421624485
+    },
+    {
+      "filepath": "git/git basic.md",
+      "timestamp": 1786419149150
+    },
+    {
       "filepath": "gesellschaft/gesellschaft (dataview).md",
-      "timestamp": 1785008056380
-    },
-    {
-      "filepath": "!non-group/neovim keybind and command.md",
-      "timestamp": 1785008054999
-    },
-    {
-      "filepath": "UNIMEL/project dcs 2043.md",
-      "timestamp": 1785008050459
-    },
-    {
-      "filepath": "obsidian/obsidian markdown and syntax + keybind.md",
-      "timestamp": 1785008048796
+      "timestamp": 1786419109139
     },
     {
       "filepath": "!non-group/webrings.md",
-      "timestamp": 1785008047020
+      "timestamp": 1786418950128
     }
   ],
   "bookmarkedFileStore": [

@@ -4,6 +4,8 @@
 - arisuchan - https://legacy.arisuchan.jp/
 - cyberspace - https://cyberspace.online/
 - wired - chan - https://www.wired-chan.org/
+### geekring
+- geekring.net - https://geekring.net/
 ### 4chan
 - touhou(gameGeneral-2hug) - https://boards.4chan.org/vg/thread/550747986
 ### laingame
@@ -19,6 +21,7 @@
 - open source game compilation by [dacctal](https://www.youtube.com/@dacctal)
 	- https://symlinx.net/dacctal/sources/open_source_games/
 ### tools
+- [maid.zone](https://maid.zone/services.html) - bunch of opensource tools made
 - [nosignups.net](https://nosignups.net/) - a compilation of usable tool wihout sign up (mostly opensource)
 - [delphi.tools](https://delphi.tools/) - a bunch of "low-effort tools" (say the creator)
 - [strudel repl](https://strudel.cc/) - make beat with coding (JavaScript)

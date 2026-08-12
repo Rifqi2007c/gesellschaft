@@ -17,5 +17,26 @@ ffmpeg ussage
 - change resolution
 	- `-vf scale=WIDTH:HEIGHT`
 		- example: `ffmpeg -i input.mp4 -vf scale=1280:720 output.mp4`
+- change audio bit depth
+	- `-c:a <bit-depth>
+	- option
+		- 16 bit: `pcm_s16le`
+		- 24 bit: `pcm_s24le`
+	- example: `ffmpeg -i input.mp4 -c:a pcm_s24le output.mp4`
+### convert with ProRes encoder (for davinci-reolve free version in linux)
+```
+ffmpeg -i input.mp4 -c:v prores_ks -profile:v 3 -c:a pcm_s24le output.mov
+```
+- ProRes profile `-profile:v <version>`
+
+| version | flavor              | use case                                    |
+| ------- | ------------------- | ------------------------------------------- |
+| 0       | ProRes 422 Proxy    | Offline editing with small file sizes       |
+| 1       | ProRes 422 LT       | Storage-constrained workflows               |
+| 2       | ProRes 422 Standard | General high-quality video editing          |
+| 3       | ProRes 422 HQ       | Post-production and mastering (Recommended) |
+| 4       | ProRes 4444         | VFX and graphics requiring an alpha channel |
+| 5       | ProRes 4444 XQ      | Extreme high-end dynamic range mastering    |
+
 ---
 #toys 
