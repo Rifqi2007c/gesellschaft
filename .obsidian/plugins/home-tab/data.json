@@ -24,20 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "obsidian/git sync obsidian (and ssh basic).md",
-      "timestamp": 1787045102839
+      "filepath": "gesellschaft/gesellschaft (dataview).md",
+      "timestamp": 1787046502267
     },
     {
-      "filepath": "gesellschaft/gesellschaft (dataview).md",
-      "timestamp": 1787045101848
+      "filepath": "git/git ssh key (and ssh key transfer).md",
+      "timestamp": 1787045696015
+    },
+    {
+      "filepath": "git/git basic.md",
+      "timestamp": 1787045566330
     },
     {
       "filepath": "windows/task scheduler.md",
       "timestamp": 1787045100923
-    },
-    {
-      "filepath": "git/git basic.md",
-      "timestamp": 1787044838764
     },
     {
       "filepath": "obsidian/obsidian.md.md",
