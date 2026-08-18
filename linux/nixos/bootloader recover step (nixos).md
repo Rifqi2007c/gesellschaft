@@ -7,3 +7,6 @@ when a drive that contain nixos is taken out and put in a new a place or put bac
 4. reinstall nixos: `sudo nixos-install`
 5. remove the usb and reboot
 > `nixos-install` will not delete present content in said drive
+
+---
+#nixos 

@@ -13,76 +13,49 @@
             "dimension": 72.5338491295938,
             "children": [
               {
-                "id": "59a3b68734258b5e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/rifqi/gesellschaft",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/run/current-system/sw/bin/fish",
-                        "followTheme": true,
-                        "name": "geselschaft-nix console",
-                        "platforms": {
-                          "darwin": false,
-                          "linux": true,
-                          "win32": false
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ~/gesellschaft"
-                }
-              },
-              {
-                "id": "b4f11e7f5b5123ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "!non-group/LaTex test.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LaTex test"
-                }
-              },
-              {
                 "id": "dfb26428b8820a47",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gesellschaft/@ gesellschaft.md",
+                    "file": "gesellschaft/gesellschaft (dataview).md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "gesellschaft (dataview)"
+                }
+              },
+              {
+                "id": "152b0e35fb96328e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian/git sync obsidian (and ssh basic).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "@ gesellschaft"
+                  "title": "git sync obsidian (and ssh basic)"
+                }
+              },
+              {
+                "id": "b5eecccb1ac96994",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "windows/task scheduler.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "task scheduler"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "fddbf6899a3ab430",
@@ -178,7 +151,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -320,12 +296,29 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "59a3b68734258b5e",
+  "active": "152b0e35fb96328e",
   "lastOpenFiles": [
+    "gesellschaft/gesellschaft (dataview).md",
+    "windows/task scheduler.md",
+    "obsidian/git sync obsidian (and ssh basic).md",
+    "ssh.md",
+    "git/git basic.md",
+    "obsidian/obsidian.md.md",
+    "obsidian/obsidian markdown and syntax + keybind.md",
+    "linux/nixos/nixos.md",
+    "linux/nixos/bootloader recover step (nixos).md",
+    "linux/gentoo/pipewire (gentoo).md",
+    "linux/gentoo/gentoo.md",
+    "linux/gentoo/certain package installing problem (gentoo).md",
+    "linux/gentoo/add external repository (gentoo).md",
+    "linux/@ linux.md",
+    "linux/archlinux/access windows drive (archlinux).md",
+    "linux/gentoo",
+    "windows/CLI app.md",
+    "psx lain/recording.md",
+    "gesellschaft/gesellschaft database.base",
     "gesellschaft/@ gesellschaft.md",
     "!non-group/LaTex test.md",
-    "git/git basic.md",
-    "gesellschaft/gesellschaft (dataview).md",
     "!non-group/webrings.md",
     "UNIMEL/midterm system analis.md",
     "toys/terminal toys/terminal toys.md",
@@ -333,24 +326,8 @@
     "toys/website link toys.md",
     "toys/application toys.md",
     "toys/tools and toys.md",
-    "linux/bash.md",
-    "linux/@ linux.md",
-    "!non-group/neovim keybind and command.md",
-    "UNIMEL/project dcs 2043.md",
-    "obsidian/obsidian markdown and syntax + keybind.md",
-    "obsidian/git sync obsidian.md",
     "obsidian/the silly.jpg",
-    "obsidian/Untitled.md",
-    "obsidian/obsidian.md.md",
-    "!non-group/todoist.md",
     "psx lain/psx lain.canvas",
-    "psx lain/recording.md",
-    "psx lain/psx lain.md",
-    "psx lain/diary.md",
-    "psx lain/collectable and tape.md",
-    "gesellschaft/gesellschaft database.base",
-    "gesellschaft/Untitled.md",
-    "!non-group/@ reminder.md",
     "git",
     "Untitled.base",
     "git basic",
