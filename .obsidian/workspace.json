@@ -19,14 +19,60 @@
                   "type": "markdown",
                   "state": {
                     "file": "gesellschaft/gesellschaft (dataview).md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "gesellschaft (dataview)"
                 }
+              },
+              {
+                "id": "ac25fff2490293b1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/rifqi/gesellschaft",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "/run/current-system/sw/bin/fish",
+                        "followTheme": true,
+                        "name": "geselschaft-nix console",
+                        "platforms": {
+                          "darwin": false,
+                          "linux": true,
+                          "win32": false
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "78731f4b-0316-4170-b9b0-fb0d14ff0dbb",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "~/gesellschaft"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "fddbf6899a3ab430",
@@ -267,11 +313,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1a1b84ed4ee250eb",
+  "active": "ac25fff2490293b1",
   "lastOpenFiles": [
+    "gesellschaft/gesellschaft (dataview).md",
+    "toys/terminal toys/ffmpeg.md",
     "git/git ssh key (and ssh key transfer).md",
     "git/git basic.md",
-    "gesellschaft/gesellschaft (dataview).md",
     "windows/task scheduler.md",
     "ssh.md",
     "obsidian/obsidian.md.md",
@@ -293,7 +340,6 @@
     "!non-group/webrings.md",
     "UNIMEL/midterm system analis.md",
     "toys/terminal toys/terminal toys.md",
-    "toys/terminal toys/ffmpeg.md",
     "toys/website link toys.md",
     "toys/application toys.md",
     "toys/tools and toys.md",

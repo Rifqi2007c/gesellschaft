@@ -38,5 +38,19 @@ ffmpeg -i input.mp4 -c:v prores_ks -profile:v 3 -c:a pcm_s24le output.mov
 | 4       | ProRes 4444         | VFX and graphics requiring an alpha channel |
 | 5       | ProRes 4444 XQ      | Extreme high-end dynamic range mastering    |
 
+### convert for most device (tip)
+in case of playback issue in some device
+```
+ffmpeg -i input.mkv -c:v libx264 -profile:v baseline -level 3.0 -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:a aac -b:a 128k -movflags +faststart output.mp4
+```
+this will convert the video to be playable in **most device**
+why?
+- `-c:v libx264`: uses libx264 (H.264) codec
+- `-profile baseline -level 3.0`: uses baseline profile of level 3 to restrict advance feature in H.264 codec for older device compability
+- `-pix_fmt yuv420p`: set pixel format to 8-bit. high-end video often uses 10-bit color, which makes videos show a black screen or fail completely on older phones and QuickTime players
+- `-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2"`: ensures the video's width and height dimensions are perfectly divisible by 2. a hard mathematical requirement for the `yuv420p` pixel format
+- `-c:a aac -b:a 128k`: uses aac for standard audio codec with a standard 128k quality
+- `-moveflags +faststart`: moves the file's index metadata (moov atom) to the beginning of the file
+
 ---
 #toys 
