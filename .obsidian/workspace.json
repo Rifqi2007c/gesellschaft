@@ -27,7 +27,7 @@
                 }
               },
               {
-                "id": "ac25fff2490293b1",
+                "id": "8fd205ac056165e3",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -313,9 +313,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "ac25fff2490293b1",
+  "active": "8fd205ac056165e3",
   "lastOpenFiles": [
     "gesellschaft/gesellschaft (dataview).md",
+    "!non-group/webrings.md",
     "toys/terminal toys/ffmpeg.md",
     "git/git ssh key (and ssh key transfer).md",
     "git/git basic.md",
@@ -337,7 +338,6 @@
     "gesellschaft/gesellschaft database.base",
     "gesellschaft/@ gesellschaft.md",
     "!non-group/LaTex test.md",
-    "!non-group/webrings.md",
     "UNIMEL/midterm system analis.md",
     "toys/terminal toys/terminal toys.md",
     "toys/website link toys.md",

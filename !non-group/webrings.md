@@ -13,6 +13,7 @@
 ### blog site
 - _(mine)_ milkinsidethebag - https://milkinsidethebag.neocities.org/
 - dacctal - https://symlinx.net/dacctal/
+- ionic1k - https://www.ionic1k.org/index
 - SFTN - https://sftn.github.io/webring.html
 - nyos.dev - https://nyos.dev/
 - prescript - https://prescript.neocities.org
