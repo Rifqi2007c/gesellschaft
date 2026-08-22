@@ -25,7 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "gesellschaft/gesellschaft (dataview).md",
-      "timestamp": 1787378577826
+      "timestamp": 1787380740451
+    },
+    {
+      "filepath": "git/git basic.md",
+      "timestamp": 1787380739754
+    },
+    {
+      "filepath": "git/git everyday usage.md",
+      "timestamp": 1787380705976
+    },
+    {
+      "filepath": "git/git.md",
+      "timestamp": 1787379916297
+    },
+    {
+      "filepath": "git/git ssh key (and ssh key transfer).md",
+      "timestamp": 1787379288998
     }
   ],
   "bookmarkedFileStore": [
