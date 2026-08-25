@@ -8,15 +8,18 @@
     "blueJay",
     "darkEyedJunco",
     "barnSwallow",
-    "americanGoldfinch"
+    "americanGoldfinch",
+    "tuftedTitmouse",
+    "scarletRobin"
   ],
   "currentSpecies": "paintedBunting",
   "unlockedHats": [
     "none",
     "wizard-hat",
-    "flower-hat"
+    "flower-hat",
+    "cowboy-hat"
   ],
-  "currentHat": "flower-hat",
+  "currentHat": "cowboy-hat",
   "settings": {
     "birbScaleMultiplier": 1.5,
     "uiScaleMultiplier": 1.1,
