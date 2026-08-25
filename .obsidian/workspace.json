@@ -19,7 +19,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "gesellschaft/gesellschaft (dataview).md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -267,9 +267,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "4cddb1a418278f68",
+  "active": "f5a13ab489e1a6a9",
   "lastOpenFiles": [
+    "linux/archlinux/pywal (archlinux).md",
     "gesellschaft/gesellschaft (dataview).md",
+    "linux/gentoo/gentoo.md",
     "cybersecurity/tips ctf.md",
     "cybersecurity/cybersecurity ctf.md",
     "cybersecurity/john the ripper.md",
@@ -294,8 +296,6 @@
     "obsidian/obsidian.md.md",
     "obsidian/obsidian markdown and syntax + keybind.md",
     "linux/nixos/nixos.md",
-    "linux/nixos/bootloader recover step (nixos).md",
-    "linux/gentoo/pipewire (gentoo).md",
     "linux/gentoo",
     "gesellschaft/gesellschaft database.base",
     "obsidian/the silly.jpg",

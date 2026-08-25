@@ -6,12 +6,12 @@
 
 ### gtk3/4
 - create pywal css template in `.config/wal/template/`
-	- name can be whatever the user want. example: `custom-gtk3.css`
+	- name can be whatever the user want. example: `custom_gtk3.css`
 - generate pywal color
 - make new Theme folder with any name inside `.themes` folder. example: `PywalTheme`
 - inside `PywalTheme folder` create a folder named `gtk-3.0`
-- create symlink with `-sf` in the command from `~/.cache/wal/custom-gtk3` to `~/.themes/PywalTheme/gtk-3.0` with the file named `gtk.css`
-	`ln -sf ~/.cache/wal/custom-gtk3.css ~/.themes/PywalTheme/gtk-3.0/gtk.css`
+- create symlink with `-sf` in the command from `~/.cache/wal/custom_gtk3` to `~/.themes/PywalTheme/gtk-3.0` with the file named `gtk.css`
+	`ln -sf ~/.cache/wal/custom_gtk3.css ~/.themes/PywalTheme/gtk-3.0/gtk.css`
 - reload pywal
 
 ### neovim(lazyvim)
