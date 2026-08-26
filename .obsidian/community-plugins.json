@@ -1,14 +1,12 @@
 [
   "obsidian-style-settings",
-  "cmdr",
   "advanced-canvas",
   "obsidian-excalidraw-plugin",
   "home-tab",
   "dataview",
-  "animated-cursor",
-  "obsidian-git",
   "terminal",
   "notebook-navigator",
-  "minimize-on-close",
-  "pocket-bird"
+  "pocket-bird",
+  "animated-cursor",
+  "cmdr"
 ]

@@ -1,4 +1,4 @@
-without sudo<center style="font-size: 30px; color: #d47e33; font-weight: bold;">
+<center style="font-size: 30px; color: #d47e33; font-weight: bold;">
 Present day, Present time
 </center>
 <p>
@@ -15,12 +15,6 @@ only search bar
 
 ---
 
-```dataview
-TABLE without ID
-file.link As "Latest", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS Date
-SORT file.ctime DESC
-LIMIT 10
-```
 ```dataview
 TABLE without ID
 file.link As "gesellschaft", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
@@ -101,10 +95,9 @@ SORT file.ctime DESC
 ```
 ```dataview
 TABLE without ID
-file.link AS "!outsider-note", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
-FROM "!outsider-note"
+file.link AS "cybersecurity", dateformat(file.ctime, "HH:mm") AS "Time", file.cday AS "Date"
+FROM "cybersecurity"
 SORT file.ctime DESC
 ```
-
 ---
 #gesellschaft 

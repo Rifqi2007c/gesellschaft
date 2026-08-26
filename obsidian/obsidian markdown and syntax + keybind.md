@@ -31,7 +31,7 @@ ___
 | bold and italic        | `*** ***` or `___ ___` | `***text***` or `___text___` | ***text*** or ___text___ |
 ### internal link
 - wikilink example: `[[gesellschaft]]`
-	output: [[@ gesellschaft]]
+	output: [[gesellschaft (relation)]]
 - markdown example: `[windows](windows%20apps.md)`. (`[windows](path/to/note)`)
 	output: [windows](windows%20apps.md)
 > markdown destination link:

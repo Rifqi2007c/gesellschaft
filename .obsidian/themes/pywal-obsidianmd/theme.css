@@ -1,21 +1,21 @@
 .theme-dark {
-  --background-primary: #03040D;
-  --background-primary-alt: #9B70B0;
-  --background-accent: #2862D8;
-  --background-secondary: #03040D;
-  --background-secondary-alt: #9B70B0;
-  --text-accent: #4F74D6;
-  --text-accent-hover: #2862D8;
-  --background-modifier-border: #9B70B0;
-  --text-highlight-bg: #9B70B0;
-  --text-selection: #6A94E9;
-  --red: #c0c0c2;
-  --green: #96A3ED;
-  --blue: #6A94E9;
-  --purple: #4695DA;
-  --aqua: #9B70B0;
-  --yellow: #4F74D6;
-  --orange: #2862D8;
+  --background-primary: #121212;
+  --background-primary-alt: #9C9785;
+  --background-accent: #818375;
+  --background-secondary: #121212;
+  --background-secondary-alt: #9C9785;
+  --text-accent: #968A77;
+  --text-accent-hover: #818375;
+  --background-modifier-border: #9C9785;
+  --text-highlight-bg: #9C9785;
+  --text-selection: #B6A88F;
+  --red: #c3c3c3;
+  --green: #C4B499;
+  --blue: #B6A88F;
+  --purple: #AB9A86;
+  --aqua: #9C9785;
+  --yellow: #968A77;
+  --orange: #818375;
 }
 
 .theme-light {

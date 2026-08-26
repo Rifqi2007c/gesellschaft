@@ -10,14 +10,18 @@
     "barnSwallow",
     "americanGoldfinch",
     "tuftedTitmouse",
-    "scarletRobin"
+    "scarletRobin",
+    "houseFinch",
+    "europeanRobin",
+    "carolinaWren"
   ],
   "currentSpecies": "paintedBunting",
   "unlockedHats": [
     "none",
     "wizard-hat",
     "flower-hat",
-    "cowboy-hat"
+    "cowboy-hat",
+    "straw-hat"
   ],
   "currentHat": "cowboy-hat",
   "settings": {

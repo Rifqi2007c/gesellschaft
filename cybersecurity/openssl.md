@@ -11,3 +11,6 @@ openssl pkeyutl -decrypt -inkey key.pem -in file.enc -out decrypted_file.txt
 	- `-in <encrypt-file>`. example: `-in file.enc`
 - `-out`: output file after decrypt file
 	- `-out <filename.txt>`. example: `-out decrypt.txt`
+
+___
+#cybersecurity 

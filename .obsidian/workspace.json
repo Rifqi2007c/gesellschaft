@@ -10,7 +10,7 @@
           {
             "id": "d87816f6d6bb7d94",
             "type": "tabs",
-            "dimension": 72.5338491295938,
+            "dimension": 70.828025477707,
             "children": [
               {
                 "id": "f5a13ab489e1a6a9",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gesellschaft/gesellschaft (dataview).md",
+                    "file": "gesellschaft/geselschaft (dataview latest).md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "gesellschaft (dataview)"
+                  "title": "geselschaft (dataview latest)"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "fddbf6899a3ab430",
             "type": "split",
-            "dimension": 27.466150870406192,
+            "dimension": 29.171974522292995,
             "children": [
               {
                 "id": "6489f6a7ee3e084a",
@@ -57,7 +57,7 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "4cddb1a418278f68",
+                    "id": "9103549ddab4598a",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -262,23 +262,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false,
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "f5a13ab489e1a6a9",
+  "active": "89f0768d47d0ddfd",
   "lastOpenFiles": [
-    "linux/archlinux/pywal (archlinux).md",
-    "gesellschaft/gesellschaft (dataview).md",
+    "linux/gentoo/fix brightness not reset after reboot (gentoo openrc).md",
+    "gesellschaft/geselschaft (dataview latest).md",
     "linux/gentoo/gentoo.md",
-    "cybersecurity/tips ctf.md",
-    "cybersecurity/cybersecurity ctf.md",
-    "cybersecurity/john the ripper.md",
-    "cybersecurity/exiftool.md",
-    "cybersecurity/hashcat.md",
+    "linux/@ linux.md",
+    "linux/gentoo/pip safety (gentoo).md",
+    "gesellschaft/gesellschaft database.base",
+    "gesellschaft/gesellschaft (relation).md",
+    "gesellschaft/Untitled.md",
+    "gesellschaft/gesellschaft (dataview).md",
+    "psx lain/recording.md",
+    "@ note that may be usefull/how to craked code on webside.md",
     "cybersecurity/cybersecurity.md",
+    "cybersecurity/hashcat.md",
+    "cybersecurity/john the ripper.md",
     "cybersecurity/openssl.md",
+    "cybersecurity/exiftool.md",
+    "cybersecurity/cybersecurity ctf.md",
+    "linux/archlinux/pywal (archlinux).md",
+    "cybersecurity/tips ctf.md",
     "cybersecurity",
     "!non-group/@ reminder.md",
     "!non-group/neovim keybind and command.md",
@@ -288,16 +296,7 @@
     "git/git everyday usage.md",
     "git/git basic.md",
     "git/git.md",
-    "git/git ssh key (and ssh key transfer).md",
-    "gesellschaft/@ gesellschaft.md",
-    "toys/terminal toys/ffmpeg.md",
-    "windows/task scheduler.md",
-    "ssh.md",
-    "obsidian/obsidian.md.md",
-    "obsidian/obsidian markdown and syntax + keybind.md",
-    "linux/nixos/nixos.md",
     "linux/gentoo",
-    "gesellschaft/gesellschaft database.base",
     "obsidian/the silly.jpg",
     "psx lain/psx lain.canvas",
     "git",
