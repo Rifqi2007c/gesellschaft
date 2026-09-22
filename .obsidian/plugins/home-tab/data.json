@@ -25,7 +25,15 @@
   "recentFilesStore": [
     {
       "filepath": "gesellschaft/geselschaft (dataview latest).md",
-      "timestamp": 1790102504608
+      "timestamp": 1790103068100
+    },
+    {
+      "filepath": "git/git ssh key (and ssh key transfer).md",
+      "timestamp": 1790102788237
+    },
+    {
+      "filepath": "git/git everyday usage.md",
+      "timestamp": 1790102756766
     },
     {
       "filepath": "gesellschaft/gesellschaft (dataview).md",
@@ -34,14 +42,6 @@
     {
       "filepath": "gesellschaft/gesellschaft database.base",
       "timestamp": 1790102405038
-    },
-    {
-      "filepath": "gesellschaft-database/gesellschaft.rbase",
-      "timestamp": 1790101963518
-    },
-    {
-      "filepath": "cybersecurity/cybersecurity.md",
-      "timestamp": 1790101820146
     }
   ],
   "bookmarkedFileStore": [
