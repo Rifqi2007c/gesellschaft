@@ -2,8 +2,10 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showInlineTitle": false,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }

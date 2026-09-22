@@ -1,4 +1,4 @@
-
+git
 ### dependecies needed before install
 - linux-headers
 	- `sudo pacman -S linux-headers`

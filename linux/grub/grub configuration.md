@@ -63,4 +63,4 @@ echo "    W    "
 ```
 
 ---
-#linux 
+#linux #grub 

@@ -4,75 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "9d862427790b7694",
-        "type": "split",
+        "id": "ed826fa16f05f4ed",
+        "type": "tabs",
+        "dimension": 75.92592592592592,
         "children": [
           {
-            "id": "d87816f6d6bb7d94",
+            "id": "70c699e1666f5900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gesellschaft/geselschaft (dataview latest).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "geselschaft (dataview latest)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "32169474a039d92d",
+        "type": "split",
+        "dimension": 24.074074074074073,
+        "children": [
+          {
+            "id": "d5c428cad394e934",
             "type": "tabs",
-            "dimension": 70.828025477707,
             "children": [
               {
-                "id": "f5a13ab489e1a6a9",
+                "id": "f7bcab257c26519f",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "bases",
                   "state": {
-                    "file": "gesellschaft/geselschaft (dataview latest).md",
-                    "mode": "preview",
-                    "source": false
+                    "file": "gesellschaft/gesellschaft database.base",
+                    "viewName": "List"
                   },
-                  "icon": "lucide-file",
-                  "title": "geselschaft (dataview latest)"
+                  "icon": "lucide-list",
+                  "title": "gesellschaft database"
                 }
               }
             ]
           },
           {
-            "id": "fddbf6899a3ab430",
-            "type": "split",
-            "dimension": 29.171974522292995,
+            "id": "c95d28a9017e8ebc",
+            "type": "tabs",
             "children": [
               {
-                "id": "6489f6a7ee3e084a",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "021bd34ee64c3200",
-                    "type": "leaf",
-                    "state": {
-                      "type": "bases",
-                      "state": {
-                        "file": "gesellschaft/gesellschaft database.base",
-                        "viewName": "Table"
-                      },
-                      "icon": "lucide-table",
-                      "title": "gesellschaft database"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "44ad5c3328437527",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "9103549ddab4598a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  }
-                ]
+                "id": "652d25e0ef3a86af",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#archlinux",
+                "query": "tag:#gameonlinux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gesellschaft/@ gesellschaft.md",
+                "file": "gesellschaft/geselschaft (dataview latest).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @ gesellschaft"
+              "title": "Outline"
             }
           },
           {
@@ -238,18 +231,28 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "gesellschaft/@ gesellschaft.md"
+                "file": "gesellschaft/geselschaft (dataview latest).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for @ gesellschaft"
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "c8c3e611154f1513",
+            "type": "leaf",
+            "state": {
+              "type": "latex-symbol-picker-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "LaTeX symbol picker"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
+    "width": 437.99609375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -263,51 +266,54 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "terminal:Open terminal": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "latex-symbol-picker:Open LaTeX symbol picker": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "89f0768d47d0ddfd",
+  "active": "70c699e1666f5900",
   "lastOpenFiles": [
-    "linux/gentoo/fix brightness not reset after reboot (gentoo openrc).md",
-    "gesellschaft/geselschaft (dataview latest).md",
-    "linux/gentoo/gentoo.md",
-    "linux/@ linux.md",
-    "linux/gentoo/pip safety (gentoo).md",
-    "gesellschaft/gesellschaft database.base",
-    "gesellschaft/gesellschaft (relation).md",
-    "gesellschaft/Untitled.md",
     "gesellschaft/gesellschaft (dataview).md",
-    "psx lain/recording.md",
-    "@ note that may be usefull/how to craked code on webside.md",
+    "gesellschaft/gesellschaft database.base",
+    "gesellschaft/geselschaft (dataview latest).md",
+    "gesellschaft-database/gesellschaft.rbase",
     "cybersecurity/cybersecurity.md",
-    "cybersecurity/hashcat.md",
-    "cybersecurity/john the ripper.md",
-    "cybersecurity/openssl.md",
-    "cybersecurity/exiftool.md",
-    "cybersecurity/cybersecurity ctf.md",
-    "linux/archlinux/pywal (archlinux).md",
+    "cybersecurity/cybersecurity tools/cybersecurity tools.md",
+    "cybersecurity/cybersecurity tools/tcpdump.md",
+    "gesellschaft/gesellschaft (relation).md",
+    "math/math.md",
+    "cybersecurity/cybersecurity knowledge/cybersecurity ctf.md",
+    "cybersecurity/cybersecurity knowledge/cybersecurity knowledge.md",
+    "psx lain/psx lain.md",
+    "psx lain/collectable and tape (psx lain).md",
+    "psx lain/diary (psx lain).md",
+    "psx lain/recording (psx lain).md",
+    "cybersecurity/cybersecurity tools/exiftool.md",
+    "cybersecurity/cybersecurity tools/steghide.md",
+    "cybersecurity/cybersecurity tools/zsteg.md",
+    "cybersecurity/cybersecurity tools/xxd.md",
+    "cybersecurity/cybersecurity tools/john the ripper.md",
+    "cybersecurity/cybersecurity knowledge/find flag in disk image(.dd) file.md",
+    "cybersecurity/cybersecurity knowledge/fixing corrupted file from hex dump.md",
+    "cybersecurity/cybersecurity knowledge",
+    "cybersecurity/cybersecurity tools/openssl.md",
+    "cybersecurity/cybersecurity tools/hashcat.md",
+    "cybersecurity/cybersecurity tools",
+    "cybersecurity/cybersecutiry tools.md",
     "cybersecurity/tips ctf.md",
-    "cybersecurity",
-    "!non-group/@ reminder.md",
-    "!non-group/neovim keybind and command.md",
-    "!non-group/webrings.md",
-    "!non-group/quotes.md",
-    "!non-group/todoist.md",
-    "git/git everyday usage.md",
-    "git/git basic.md",
-    "git/git.md",
-    "linux/gentoo",
+    "gesellschaft-database/ges.rbase",
+    "linux/gentoo/@ gentoo.md",
+    "gesellschaft-database/linux.rbase",
+    "gesellschaft-database",
+    "@ linux",
+    "linux/@ linux",
+    "linux/linux basic",
+    "gesellschaft/playground.canvas",
+    "gesellschaft/rooms.canvas",
     "obsidian/the silly.jpg",
     "psx lain/psx lain.canvas",
-    "git",
-    "Untitled.base",
-    "git basic",
-    "linux/nixos",
-    "electronics",
     "Untitled.canvas",
     "coding/c++/c++ flowchart/asset flowchart/decision.png",
-    "!outsider-note/Aisyah",
-    "linux/grub",
     "!asset/proxy2.png",
     "!asset/proxy1.png",
     "!asset/proxy0.png",

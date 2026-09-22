@@ -15,3 +15,6 @@
 | 1   | 2       | 3        | 4     | 5         | 6   | 7   | 8   |
 | --- | ------- | -------- | ----- | --------- | --- | --- | --- |
 | LED | SCL/SCK | SDA/MOSI | AO/DC | RESET/RST | CS  | GND | VCC |
+
+---
+#microcontroller 

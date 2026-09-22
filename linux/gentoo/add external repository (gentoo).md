@@ -7,6 +7,8 @@ certain package like obsidian and spotify is not available in gentoo base repo, 
 	- to list all the available repo and its name
 - enable repository
 	- `eselect repository add <repo-name>`
+- sync repository
+	- `emaint sync -a`
 
 --- 
 #gentoo 

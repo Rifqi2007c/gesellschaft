@@ -19,11 +19,18 @@
       "icon": "lucide-download",
       "name": "Git: Pull",
       "mode": "any"
+    },
+    {
+      "id": "latex-symbol-picker:open-panel",
+      "icon": "lucide-sigma",
+      "name": "LaTeX Symbol Picker: Open panel",
+      "mode": "any"
     }
   ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": []

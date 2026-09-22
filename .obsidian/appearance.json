@@ -9,8 +9,9 @@
     "cursor-block",
     "notitle-embbeded",
     "Table-centre",
+    "custom-readable-length",
     "color",
-    "custom-readable-length"
+    "LaTex-size-inc"
   ],
   "accentColor": "",
   "showRibbon": false,

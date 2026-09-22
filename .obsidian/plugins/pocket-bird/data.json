@@ -14,17 +14,28 @@
     "houseFinch",
     "europeanRobin",
     "carolinaWren",
-    "pigeon"
+    "pigeon",
+    "shimaEnaga",
+    "mistletoebird",
+    "violetBackedStarling",
+    "redAvadavat"
   ],
-  "currentSpecies": "paintedBunting",
+  "currentSpecies": "violetBackedStarling",
   "unlockedHats": [
     "none",
     "wizard-hat",
     "flower-hat",
     "cowboy-hat",
-    "straw-hat"
+    "straw-hat",
+    "fez",
+    "cordovan-hat",
+    "sun-hat",
+    "viking-helmet",
+    "baseball-cap",
+    "top-hat",
+    "beanie"
   ],
-  "currentHat": "cowboy-hat",
+  "currentHat": "beanie",
   "settings": {
     "birbScaleMultiplier": 1.5,
     "uiScaleMultiplier": 1.1,

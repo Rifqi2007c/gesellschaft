@@ -13,3 +13,6 @@ commit, push and sometime pull
 - backup (optional): `git branch <new-backup-branch-name>`
 - `git reset origin/<branch>`
 	- if this not work use `--hard`
+
+---
+#git 

@@ -11,3 +11,6 @@
 ### 4 leg button
 - any leg to pin with resistor(10k)
 - any leg to GND
+
+---
+#microcontroller 

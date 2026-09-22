@@ -1,7 +1,4 @@
+- [[cybersecurity tools]]![[cybersecurity tools|no-title]]
+* [[cybersecurity knowledge]]![[cybersecurity knowledge|no-title]]
 
-- [[cybersecurity ctf]]
-- [[exiftool]]
-- [[openssl]]
-- [[john the ripper]]
-- [[hashcat]]
 #cybersecurity 

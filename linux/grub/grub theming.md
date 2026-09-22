@@ -34,4 +34,4 @@ examlpe theme
 > regenerate grub config after done configuring/making theme
 
 ---
-#linux 
+#linux #grub 

@@ -1,4 +1,4 @@
 - [[application toys]]
 - [[website link toys]]
-- [[terminal toys]]
+- [[@ terminal toys]]
 #toys

@@ -10,6 +10,8 @@ views:
       - file.name
       - file.backlinks
       - file.tags
+      - file.ctime
+      - file.mtime
   - type: cards
     name: Cards
   - type: list

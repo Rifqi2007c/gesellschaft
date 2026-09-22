@@ -1,5 +1,10 @@
 # git
 
+- ### add email
+	add email to git 
+- add: `git config --global user.email "your_email@example.com"`
+- verify: `git config --global user.email`
+
 - ### clone
 	clone repository from github or other git services
 - `git clone <repo url>`
@@ -62,3 +67,6 @@
 	- `git remote show <branch>` provides detailed information about a specific remote
 	- `git remote set-url <branch> <new-url>` updates the URL for an existing remote
 		- this option can be used for if git repo were previously clone using HTTP and the user want to use SSH-key.
+
+---
+#git 

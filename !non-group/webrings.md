@@ -4,6 +4,9 @@
 - arisuchan - https://legacy.arisuchan.jp/
 - cyberspace - https://cyberspace.online/
 - wired - chan - https://www.wired-chan.org/
+- miladychan - https://miladychan.org/
+### late.sh
+- https://late.sh/ or `ssh late.sh`
 ### geekring
 - geekring.net - https://geekring.net/
 ### 4chan
