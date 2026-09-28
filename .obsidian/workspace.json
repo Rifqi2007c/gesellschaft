@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/latihan intensif 9.md",
+                "file": "!non-group/data communication.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "latihan intensif 9"
+              "title": "data communication"
             }
           }
         ]
@@ -275,17 +275,18 @@
   },
   "active": "fc76ec849bd361e8",
   "lastOpenFiles": [
-    "math/jadual-taburan-normal-piawai.jpg",
     "math/latihan intensif 9.md",
+    "!non-group/data communication.md",
     "math/latihan intensif 8.md",
     "math/latihan intensif 7.md",
+    "math/latihan intensif 6.canvas",
+    "math/latihan intensif 5.md",
+    "math/jadual-taburan-normal-piawai.jpg",
     "math/jadual-taburan-normal-piawai.jpg~",
     "gesellschaft/geselschaft (dataview latest).md",
     "!non-group/webrings.md",
     "gesellschaft/gesellschaft (relation).md",
-    "math/latihan intensif 6.canvas",
     "math/math.md",
-    "math/latihan intensif 5.md",
     "gesellschaft/gesellschaft (dataview).md",
     "linux/gentoo/pip safety (gentoo).md",
     "git/git ssh key (and ssh key transfer).md",

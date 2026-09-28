@@ -21,4 +21,4 @@ solution:
 $$Z = \frac{(7.5-5.5)-(0-0)} {\sqrt{\frac{12.3}{110}+\frac{10.2}{125}}}=\frac{2}{0.1934}$$
 $$Z=\frac{2}{0.1934}=4.5478$$
 $\large Z=4.5478>1.96$ maka $\large H_0$ ditolak.
-Kesimpulanny, pada aras $\large \sigma = 0.05$ kedua-dua populasi mempunyai min yang berbeza secara bererti
+Kesimpulannya, pada aras $\large \sigma = 0.05$ kedua-dua populasi mempunyai min yang berbeza secara bererti
