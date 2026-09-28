@@ -4,37 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ed826fa16f05f4ed",
+        "id": "d5c428cad394e934",
         "type": "tabs",
-        "dimension": 75.92592592592592,
+        "dimension": 73.1800766283525,
         "children": [
           {
-            "id": "70c699e1666f5900",
+            "id": "fc76ec849bd361e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gesellschaft/geselschaft (dataview latest).md",
+                "file": "math/latihan intensif 9.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "geselschaft (dataview latest)"
+              "title": "latihan intensif 9"
             }
           }
         ]
       },
       {
-        "id": "32169474a039d92d",
+        "id": "9b1cc623efb5b8f3",
         "type": "split",
-        "dimension": 24.074074074074073,
+        "dimension": 26.81992337164751,
         "children": [
           {
-            "id": "d5c428cad394e934",
+            "id": "6e41fcfb245b55a3",
             "type": "tabs",
+            "dimension": 49.214145383104125,
             "children": [
               {
-                "id": "f7bcab257c26519f",
+                "id": "7290da01aa55b1a9",
                 "type": "leaf",
                 "state": {
                   "type": "bases",
@@ -49,8 +50,9 @@
             ]
           },
           {
-            "id": "c95d28a9017e8ebc",
+            "id": "232ab4378fc00c2c",
             "type": "tabs",
+            "dimension": 50.785854616895875,
             "children": [
               {
                 "id": "652d25e0ef3a86af",
@@ -271,19 +273,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70c699e1666f5900",
+  "active": "fc76ec849bd361e8",
   "lastOpenFiles": [
-    "git/git ssh key (and ssh key transfer).md",
+    "math/jadual-taburan-normal-piawai.jpg",
+    "math/latihan intensif 9.md",
+    "math/latihan intensif 8.md",
+    "math/latihan intensif 7.md",
+    "math/jadual-taburan-normal-piawai.jpg~",
     "gesellschaft/geselschaft (dataview latest).md",
-    "git/git everyday usage.md",
+    "!non-group/webrings.md",
+    "gesellschaft/gesellschaft (relation).md",
+    "math/latihan intensif 6.canvas",
+    "math/math.md",
+    "math/latihan intensif 5.md",
     "gesellschaft/gesellschaft (dataview).md",
+    "linux/gentoo/pip safety (gentoo).md",
+    "git/git ssh key (and ssh key transfer).md",
+    "cybersecurity/cybersecurity tools/xxd.md",
+    "cybersecurity/cybersecurity knowledge/fixing corrupted file from hex dump.md",
+    "linux/gentoo/certain package installing problem (gentoo).md",
+    "gesellschaft/Untitled.canvas",
     "gesellschaft/gesellschaft database.base",
+    "git/git everyday usage.md",
     "gesellschaft-database/gesellschaft.rbase",
     "cybersecurity/cybersecurity.md",
     "cybersecurity/cybersecurity tools/cybersecurity tools.md",
     "cybersecurity/cybersecurity tools/tcpdump.md",
-    "gesellschaft/gesellschaft (relation).md",
-    "math/math.md",
     "cybersecurity/cybersecurity knowledge/cybersecurity ctf.md",
     "cybersecurity/cybersecurity knowledge/cybersecurity knowledge.md",
     "psx lain/psx lain.md",
@@ -291,24 +306,13 @@
     "psx lain/diary (psx lain).md",
     "psx lain/recording (psx lain).md",
     "cybersecurity/cybersecurity tools/exiftool.md",
-    "cybersecurity/cybersecurity tools/steghide.md",
-    "cybersecurity/cybersecurity tools/zsteg.md",
-    "cybersecurity/cybersecurity tools/xxd.md",
-    "cybersecurity/cybersecurity tools/john the ripper.md",
-    "cybersecurity/cybersecurity knowledge/find flag in disk image(.dd) file.md",
-    "cybersecurity/cybersecurity knowledge/fixing corrupted file from hex dump.md",
     "cybersecurity/cybersecurity knowledge",
-    "cybersecurity/cybersecurity tools/openssl.md",
-    "cybersecurity/cybersecurity tools/hashcat.md",
     "cybersecurity/cybersecurity tools",
-    "cybersecurity/cybersecutiry tools.md",
-    "cybersecurity/tips ctf.md",
     "gesellschaft-database/ges.rbase",
     "gesellschaft-database/linux.rbase",
     "gesellschaft-database",
     "@ linux",
     "linux/@ linux",
-    "linux/linux basic",
     "gesellschaft/playground.canvas",
     "gesellschaft/rooms.canvas",
     "obsidian/the silly.jpg",
@@ -323,7 +327,6 @@
     "eq apo n peace interface/asset/eq2-graph.png",
     "Untitled 1.canvas",
     "!asset/gesellschaft.png",
-    "!asset/header.jpg",
     "UNIMEL/DCS/example selection control structure.canvas",
     "UNIMEL/DCS/test.canvas"
   ]
