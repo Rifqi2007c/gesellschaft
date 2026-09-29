@@ -9,7 +9,7 @@
 - report generators
 - screen generators
 #### limitation of prototypes
-- Prototaip ialah sistem yang berfungsi, namun ia kurang cekap berbanding sistem yang telah dibangunkan sepenuhnya.
+- Prototaip ialah sistem yang berfungsi, tetapi ia kurang cekap berbanding sistem yang telah dibangunkan sepenuhnya.
 - Pembangun sistem boleh menaik taraf prototaip tersebut menjadi sistem maklumat akhir dengan menambah keupayaan yang diperlukan.
 - jika tidak, prototaip dibuang
 ### tugas keperluan fasa analisa
