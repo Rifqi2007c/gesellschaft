@@ -1,5 +1,4 @@
 - [[windows apps]]
-- [[cmd hack]]
 - [[cmd command]]
 - [[powershell]]![[powershell|no-title]]
 - [[registry hack]]

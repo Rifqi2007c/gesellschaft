@@ -1,4 +1,4 @@
-### chan site
+### chan/room site
 - hikari3 - https://www.hikari3.ch/
 - lainchan - https://lainchan.org/mega/index.html
 - arisuchan - https://legacy.arisuchan.jp/
@@ -8,8 +8,6 @@
 - agora road - https://forum.agoraroad.com
 ### late.sh
 - https://late.sh/ or `ssh late.sh`
-### geekring
-- geekring.net - https://geekring.net/
 ### 4chan
 - touhou(gameGeneral-2hug) - https://boards.4chan.org/vg/thread/550747986
 ### blog site
@@ -21,6 +19,9 @@
 - prescript - https://prescript.neocities.org
 - tapeykatt - https://tapeykatt.neocities.org/
 - zeusofthecrow - https://zeusofthecrows.github.io/
+- cy-x.net - https://cy-x.net/
+- jaryq - https://jaryq.neocities.org/
+- simone.computer/#/ -  https://simone.computer/#/
 ### games
 - touhou pastebin link - https://pastebin.com/hPmDczz6
 - psx lain - https://laingame.net/offline.html
@@ -32,10 +33,19 @@
 - themahjong.com - https://themahjong.com/
 - thejigsawpuzzles - https://thejigsawpuzzles.com/
 - space-nerd-in-space - https://smcameron.github.io/space-nerds-in-space/
+- hellbreaker - https://technofantasy.itch.io/hellbreaker
 ### tools
 - [maid.zone](https://maid.zone/services.html) - bunch of opensource tools made
 - [nosignups.net](https://nosignups.net/) - a compilation of usable tool wihout sign up (mostly opensource)
 - [delphi.tools](https://delphi.tools/) - a bunch of "low-effort tools" (say the creator)
 - [strudel repl](https://strudel.cc/) - make beat with coding (JavaScript)
+### other
+- quenq.com - https://quenq.com/
+### other webring
+- geekring.net - https://geekring.net/
+- simone.computer/webdesktop - https://simone.computer/#/webdesktops
+### project
+- re:serial experiment - https://studioqs45.com/lain/
+- tsuki project (archived) - https://systemspace.network/
 ----
 #webrings
