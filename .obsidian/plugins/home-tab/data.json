@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "gesellschaft/gesellschaft (relation).md",
+      "timestamp": 1791918450554
+    },
+    {
       "filepath": "windows/windows.md",
       "timestamp": 1791918380098
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "windows/troubleshoot/fix broken windows bootoader/fix broken windows bootloader (legacy, MBR).md",
       "timestamp": 1791918360174
-    },
-    {
-      "filepath": "windows/troubleshoot/fix broken windows bootoader/fix broken windows bootloader (UEFI, GPT).md",
-      "timestamp": 1791918350636
     }
   ],
   "bookmarkedFileStore": [
