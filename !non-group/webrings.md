@@ -39,6 +39,9 @@
 - [nosignups.net](https://nosignups.net/) - a compilation of usable tool wihout sign up (mostly opensource)
 - [delphi.tools](https://delphi.tools/) - a bunch of "low-effort tools" (say the creator)
 - [strudel repl](https://strudel.cc/) - make beat with coding (JavaScript)
+- braile ascii art tools
+	- braile ascci art generator - https://lachlanarthur.github.io/Braille-ASCII-Art/
+	- braile pattern (wikipedia) (8-dots braile) - https://en.wikipedia.org/wiki/Braille_Patterns
 ### other
 - quenq.com - https://quenq.com/
 ### other webring
@@ -47,5 +50,7 @@
 ### project
 - re:serial experiment - https://studioqs45.com/lain/
 - tsuki project (archived) - https://systemspace.network/
+- limbus archive - https://limbus-archive.com/#/home
+- II for windows - https://apps.daeese.me/illogicalwindows/#top
 ----
 #webrings

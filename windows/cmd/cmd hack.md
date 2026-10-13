@@ -23,5 +23,7 @@ irm https://get.activated.win | iex
 ```
 - there will be bunch of option, choose.
 > guide/shoutout video by [yegna media](https://www.youtube.com/@yegnamedia1) - [activate windows 10/11 tutorial](https://www.youtube.com/watch?v=Um_cS1hzRB8&list=WL&index=2)
+
+
 ----
-#windows 
+#windows #cmd  
