@@ -30,12 +30,15 @@
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "emptyState": [],
   "textToolbarCommands": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [],
+    "editorMenuItems": [],
+    "fileMenuItems": []
   },
-  "spacing": 8,
+  "spacing": 0,
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
@@ -45,5 +48,6 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "spacingReset": true
 }

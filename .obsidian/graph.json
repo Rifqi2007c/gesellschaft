@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#gesellschaft  ",
@@ -174,6 +174,13 @@
         "a": 1,
         "rgb": 1039104
       }
+    },
+    {
+      "query": "tag:#firefox  ",
+      "color": {
+        "a": 1,
+        "rgb": 15756288
+      }
     }
   ],
   "collapse-display": true,
@@ -181,11 +188,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.10618181818182,
-  "collapse-forces": true,
-  "centerStrength": 0.709313543599258,
-  "repelStrength": 12.1632653061224,
-  "linkStrength": 0.734842300556586,
-  "linkDistance": 102,
-  "scale": 0.18521806484729147,
+  "collapse-forces": false,
+  "centerStrength": 0.34206367125762,
+  "repelStrength": 6.26326484533755,
+  "linkStrength": 0.79724542786182,
+  "linkDistance": 235,
+  "scale": 0.1852180648472915,
   "close": true
 }

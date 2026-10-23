@@ -20,7 +20,9 @@
     "violetBackedStarling",
     "redAvadavat",
     "spangledCotinga",
-    "pinkRobin"
+    "pinkRobin",
+    "cubanTody",
+    "stellarsJay"
   ],
   "currentSpecies": "redAvadavat",
   "unlockedHats": [
@@ -41,6 +43,7 @@
   "settings": {
     "birbScaleMultiplier": 1.5,
     "uiScaleMultiplier": 1.1,
-    "birbMode": true
+    "birbMode": true,
+    "firstTime": false
   }
 }

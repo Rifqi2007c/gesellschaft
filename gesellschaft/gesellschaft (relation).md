@@ -34,6 +34,7 @@ only search bar
 - [[electronics]]
 - [[git]] 
 - [[neovim]]
+- [[firefox]]
 ## [[@ temporary note]]![[@ temporary note|no-title]]
 ## [[@ note that may be usefull]]![[@ note that may be usefull|no-title]]
 ------

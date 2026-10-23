@@ -8,5 +8,6 @@
 - [center of my screen](https://centerofmyscreen.com/)
 - [strudel repl](https://strudel.cc/)
 - [any audio to midi converter](https://www.ofoct.com/audio-converter/convert-wav-or-mp3-ogg-aac-wma-to-midi.html)
+- [8mb video compressor](https://8mb.video/)
 ----
 #toys 

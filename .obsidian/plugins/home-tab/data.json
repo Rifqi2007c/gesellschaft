@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "toys/website link toys.md",
+      "timestamp": 1792669813643
+    },
+    {
       "filepath": "gesellschaft/gesellschaft (relation).md",
-      "timestamp": 1791918450554
-    },
-    {
-      "filepath": "windows/windows.md",
-      "timestamp": 1791918380098
-    },
-    {
-      "filepath": "windows/troubleshoot/fix broken windows bootloader.md",
-      "timestamp": 1791918375698
-    },
-    {
-      "filepath": "windows/troubleshoot/fix broken windows bootoader/fix windows bootloader disk conflict.md",
-      "timestamp": 1791918369010
-    },
-    {
-      "filepath": "windows/troubleshoot/fix broken windows bootoader/fix broken windows bootloader (legacy, MBR).md",
-      "timestamp": 1791918360174
+      "timestamp": 1792669804765
     }
   ],
   "bookmarkedFileStore": [

@@ -20,6 +20,8 @@
 - gg then VG
 #### delete selected
 - d
+#### delete entire line
+- put cursor on a line then press dd
 #### change tab
 - \[ or \] then b
 - if newtab is created using `:tabnew` then gt (next) or gT (previuos)
@@ -37,5 +39,18 @@
 - type any number then gg
 - type any number then G
 
+#### add whitespace at the start of mutiple line
+- select the line then, SHIFT + >
+### manipulate selected text
+-	#### replace text
+	- :`:%s/old/new/g`
+		- remove % to select individually. the earliest in the text file will be selected first
+	- :`:<num>,<nums>/old/new/g`
+		- select and replace base on line number choosen. example: `10,20s/old/new/g`
+- ##### delete selected
+	- :`:g/selected-text/d`
+- #### add text at the start or end of the line
+	- start: `:g/selected-text/s/^/new-text`
+	- end: `:g/selected-text-text/s/$/new-text`
 ----
 #neovim

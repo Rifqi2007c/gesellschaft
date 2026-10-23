@@ -22,6 +22,7 @@
 - cy-x.net - https://cy-x.net/
 - jaryq - https://jaryq.neocities.org/
 - simone.computer/#/ -  https://simone.computer/#/
+- sunnexo - https://sunnexo.moe/
 ### games
 - touhou pastebin link - https://pastebin.com/hPmDczz6
 - psx lain - https://laingame.net/offline.html
@@ -34,6 +35,8 @@
 - thejigsawpuzzles - https://thejigsawpuzzles.com/
 - space-nerd-in-space - https://smcameron.github.io/space-nerds-in-space/
 - hellbreaker - https://technofantasy.itch.io/hellbreaker
+- FTEQW (quake engine) - https://www.fteqw.org/
+- Interlude (mania) - https://www.yavsrg.net/
 ### tools
 - [maid.zone](https://maid.zone/services.html) - bunch of opensource tools made
 - [nosignups.net](https://nosignups.net/) - a compilation of usable tool wihout sign up (mostly opensource)
@@ -52,5 +55,6 @@
 - tsuki project (archived) - https://systemspace.network/
 - limbus archive - https://limbus-archive.com/#/home
 - II for windows - https://apps.daeese.me/illogicalwindows/#top
+- mania tracker - https://mania-tracker.com
 ----
 #webrings
