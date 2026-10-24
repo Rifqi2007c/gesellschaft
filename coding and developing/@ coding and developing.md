@@ -1,3 +1,3 @@
-- [[language]]![[language|no-title]]
-* [[developing]]![[developing|no-title]]
+1. [[language]]![[language|no-title]]
+2. [[@ developing]]![[@ developing|no-title]]
 #coding #developing

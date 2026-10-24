@@ -1,0 +1,21 @@
+{
+  "workspace:close-window": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "global-search:open": [],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
+}

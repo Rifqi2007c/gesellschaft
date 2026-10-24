@@ -11,7 +11,8 @@
     "Table-centre",
     "custom-readable-length",
     "color",
-    "LaTex-size-inc"
+    "LaTex-size-inc",
+    "list-padding"
   ],
   "accentColor": "",
   "showRibbon": false,

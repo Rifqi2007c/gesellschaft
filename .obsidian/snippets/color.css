@@ -11,11 +11,6 @@
   border-radius: 0px !important;
 }
 
-.markdown-embed:not(.hover-popover .markdown-embed), .file-embed {
-  margin-inline-start: 1px !important;
-  margin-inline-end: 0px !important;
-}
-
 .setting-group .setting-items {
   background-color: var(--background-primary);
 }

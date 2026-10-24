@@ -1,3 +1,0 @@
-- [[delete boot entries]]
-
-#BIOS

@@ -1,4 +1,4 @@
-- ￼￼gaming on linux￼￼![[gaming on linux|no-title]]### configuring and mounting the NTFS partition
+- ￼￼gaming on linux￼￼![[@ gaming on linux|no-title]]### configuring and mounting the NTFS partition
 - ##### required package dependecies
 	- `ntfs-3g`
 - ##### create a mount point
